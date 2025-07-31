@@ -1,0 +1,10 @@
+﻿TETRIS GAME
+Press SW1 to start
+NCODED
+-
+GAME OVER
+PRESS SW1 to continue
+HIGH SCORE
+TIME
+00:00
+-
