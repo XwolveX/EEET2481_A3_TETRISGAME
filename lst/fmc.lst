@@ -23,8 +23,8 @@
 	.eabi_attribute	14, 0	@ Tag_ABI_PCS_R9_use
 	.file	"fmc.c"
 	.file	1 "C:\\Users\\dinhl" "AppData\\Local\\Keil_v5\\ARM\\ARMCLANG\\bin\\..\\include\\stdint.h"
-	.file	2 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "Library/StdDriver/src/fmc.c"
-	.file	3 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/Device/Nuvoton/M480/Include\\fmc_reg.h"
+	.file	2 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "Library/StdDriver/src/fmc.c"
+	.file	3 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/Device/Nuvoton/M480/Include\\fmc_reg.h"
 	.section	.text.FMC_Close,"ax",%progbits
 	.hidden	FMC_Close                       @ -- Begin function FMC_Close
 	.globl	FMC_Close
@@ -14800,211 +14800,211 @@ g_FMC_i32ErrCode:
 .Linfo_string1:
 	.asciz	"Library/StdDriver/src\\fmc.c"  @ string offset=68
 .Linfo_string2:
-	.asciz	"C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" @ string offset=96
+	.asciz	"C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" @ string offset=96
 .Linfo_string3:
-	.asciz	"g_FMC_i32ErrCode"              @ string offset=149
+	.asciz	"g_FMC_i32ErrCode"              @ string offset=161
 .Linfo_string4:
-	.asciz	"int"                           @ string offset=166
+	.asciz	"int"                           @ string offset=178
 .Linfo_string5:
-	.asciz	"int32_t"                       @ string offset=170
+	.asciz	"int32_t"                       @ string offset=182
 .Linfo_string6:
-	.asciz	"ISPCTL"                        @ string offset=178
+	.asciz	"ISPCTL"                        @ string offset=190
 .Linfo_string7:
-	.asciz	"unsigned int"                  @ string offset=185
+	.asciz	"unsigned int"                  @ string offset=197
 .Linfo_string8:
-	.asciz	"uint32_t"                      @ string offset=198
+	.asciz	"uint32_t"                      @ string offset=210
 .Linfo_string9:
-	.asciz	"ISPADDR"                       @ string offset=207
+	.asciz	"ISPADDR"                       @ string offset=219
 .Linfo_string10:
-	.asciz	"ISPDAT"                        @ string offset=215
+	.asciz	"ISPDAT"                        @ string offset=227
 .Linfo_string11:
-	.asciz	"ISPCMD"                        @ string offset=222
+	.asciz	"ISPCMD"                        @ string offset=234
 .Linfo_string12:
-	.asciz	"ISPTRG"                        @ string offset=229
+	.asciz	"ISPTRG"                        @ string offset=241
 .Linfo_string13:
-	.asciz	"DFBA"                          @ string offset=236
+	.asciz	"DFBA"                          @ string offset=248
 .Linfo_string14:
-	.asciz	"RESERVE0"                      @ string offset=241
+	.asciz	"RESERVE0"                      @ string offset=253
 .Linfo_string15:
-	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=250
+	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=262
 .Linfo_string16:
-	.asciz	"ISPSTS"                        @ string offset=270
+	.asciz	"ISPSTS"                        @ string offset=282
 .Linfo_string17:
-	.asciz	"RESERVE1"                      @ string offset=277
+	.asciz	"RESERVE1"                      @ string offset=289
 .Linfo_string18:
-	.asciz	"CYCCTL"                        @ string offset=286
+	.asciz	"CYCCTL"                        @ string offset=298
 .Linfo_string19:
-	.asciz	"KPKEY0"                        @ string offset=293
+	.asciz	"KPKEY0"                        @ string offset=305
 .Linfo_string20:
-	.asciz	"KPKEY1"                        @ string offset=300
+	.asciz	"KPKEY1"                        @ string offset=312
 .Linfo_string21:
-	.asciz	"KPKEY2"                        @ string offset=307
+	.asciz	"KPKEY2"                        @ string offset=319
 .Linfo_string22:
-	.asciz	"KPKEYTRG"                      @ string offset=314
+	.asciz	"KPKEYTRG"                      @ string offset=326
 .Linfo_string23:
-	.asciz	"KPKEYSTS"                      @ string offset=323
+	.asciz	"KPKEYSTS"                      @ string offset=335
 .Linfo_string24:
-	.asciz	"KPKEYCNT"                      @ string offset=332
+	.asciz	"KPKEYCNT"                      @ string offset=344
 .Linfo_string25:
-	.asciz	"KPCNT"                         @ string offset=341
+	.asciz	"KPCNT"                         @ string offset=353
 .Linfo_string26:
-	.asciz	"RESERVE2"                      @ string offset=347
+	.asciz	"RESERVE2"                      @ string offset=359
 .Linfo_string27:
-	.asciz	"MPDAT0"                        @ string offset=356
+	.asciz	"MPDAT0"                        @ string offset=368
 .Linfo_string28:
-	.asciz	"MPDAT1"                        @ string offset=363
+	.asciz	"MPDAT1"                        @ string offset=375
 .Linfo_string29:
-	.asciz	"MPDAT2"                        @ string offset=370
+	.asciz	"MPDAT2"                        @ string offset=382
 .Linfo_string30:
-	.asciz	"MPDAT3"                        @ string offset=377
+	.asciz	"MPDAT3"                        @ string offset=389
 .Linfo_string31:
-	.asciz	"RESERVE3"                      @ string offset=384
+	.asciz	"RESERVE3"                      @ string offset=396
 .Linfo_string32:
-	.asciz	"MPSTS"                         @ string offset=393
+	.asciz	"MPSTS"                         @ string offset=405
 .Linfo_string33:
-	.asciz	"MPADDR"                        @ string offset=399
+	.asciz	"MPADDR"                        @ string offset=411
 .Linfo_string34:
-	.asciz	"RESERVE4"                      @ string offset=406
+	.asciz	"RESERVE4"                      @ string offset=418
 .Linfo_string35:
-	.asciz	"XOMR0STS"                      @ string offset=415
+	.asciz	"XOMR0STS"                      @ string offset=427
 .Linfo_string36:
-	.asciz	"XOMR1STS"                      @ string offset=424
+	.asciz	"XOMR1STS"                      @ string offset=436
 .Linfo_string37:
-	.asciz	"XOMR2STS"                      @ string offset=433
+	.asciz	"XOMR2STS"                      @ string offset=445
 .Linfo_string38:
-	.asciz	"XOMR3STS"                      @ string offset=442
+	.asciz	"XOMR3STS"                      @ string offset=454
 .Linfo_string39:
-	.asciz	"XOMSTS"                        @ string offset=451
+	.asciz	"XOMSTS"                        @ string offset=463
 .Linfo_string40:
-	.asciz	"FMC_T"                         @ string offset=458
+	.asciz	"FMC_T"                         @ string offset=470
 .Linfo_string41:
-	.asciz	"FMC_GetXOMState"               @ string offset=464
+	.asciz	"FMC_GetXOMState"               @ string offset=476
 .Linfo_string42:
-	.asciz	"u32XomNum"                     @ string offset=480
+	.asciz	"u32XomNum"                     @ string offset=492
 .Linfo_string43:
-	.asciz	"ret"                           @ string offset=490
+	.asciz	"ret"                           @ string offset=502
 .Linfo_string44:
-	.asciz	"u32act"                        @ string offset=494
+	.asciz	"u32act"                        @ string offset=506
 .Linfo_string45:
-	.asciz	"FMC_Erase_SPROM"               @ string offset=501
+	.asciz	"FMC_Erase_SPROM"               @ string offset=513
 .Linfo_string46:
-	.asciz	"tout"                          @ string offset=517
+	.asciz	"tout"                          @ string offset=529
 .Linfo_string47:
-	.asciz	"FMC_Read"                      @ string offset=522
+	.asciz	"FMC_Read"                      @ string offset=534
 .Linfo_string48:
-	.asciz	"u32Addr"                       @ string offset=531
+	.asciz	"u32Addr"                       @ string offset=543
 .Linfo_string49:
-	.asciz	"FMC_Erase"                     @ string offset=539
+	.asciz	"FMC_Erase"                     @ string offset=551
 .Linfo_string50:
-	.asciz	"u32PageAddr"                   @ string offset=549
+	.asciz	"u32PageAddr"                   @ string offset=561
 .Linfo_string51:
-	.asciz	"FMC_Write"                     @ string offset=561
+	.asciz	"FMC_Write"                     @ string offset=573
 .Linfo_string52:
-	.asciz	"u32Data"                       @ string offset=571
+	.asciz	"u32Data"                       @ string offset=583
 .Linfo_string53:
-	.asciz	"FMC_Close"                     @ string offset=579
+	.asciz	"FMC_Close"                     @ string offset=591
 .Linfo_string54:
-	.asciz	"FMC_ConfigXOM"                 @ string offset=589
+	.asciz	"FMC_ConfigXOM"                 @ string offset=601
 .Linfo_string55:
-	.asciz	"FMC_Erase_Block"               @ string offset=603
+	.asciz	"FMC_Erase_Block"               @ string offset=615
 .Linfo_string56:
-	.asciz	"FMC_Erase_Bank"                @ string offset=619
+	.asciz	"FMC_Erase_Bank"                @ string offset=631
 .Linfo_string57:
-	.asciz	"FMC_EraseXOM"                  @ string offset=634
+	.asciz	"FMC_EraseXOM"                  @ string offset=646
 .Linfo_string58:
-	.asciz	"FMC_GetBootSource"             @ string offset=647
+	.asciz	"FMC_GetBootSource"             @ string offset=659
 .Linfo_string59:
-	.asciz	"FMC_Open"                      @ string offset=665
+	.asciz	"FMC_Open"                      @ string offset=677
 .Linfo_string60:
-	.asciz	"FMC_Read_64"                   @ string offset=674
+	.asciz	"FMC_Read_64"                   @ string offset=686
 .Linfo_string61:
-	.asciz	"FMC_ReadDataFlashBaseAddr"     @ string offset=686
+	.asciz	"FMC_ReadDataFlashBaseAddr"     @ string offset=698
 .Linfo_string62:
-	.asciz	"FMC_SetBootSource"             @ string offset=712
+	.asciz	"FMC_SetBootSource"             @ string offset=724
 .Linfo_string63:
-	.asciz	"FMC_Write8Bytes"               @ string offset=730
+	.asciz	"FMC_Write8Bytes"               @ string offset=742
 .Linfo_string64:
-	.asciz	"FMC_WriteMultiple"             @ string offset=746
+	.asciz	"FMC_WriteMultiple"             @ string offset=758
 .Linfo_string65:
-	.asciz	"FMC_Write_OTP"                 @ string offset=764
+	.asciz	"FMC_Write_OTP"                 @ string offset=776
 .Linfo_string66:
-	.asciz	"FMC_Read_OTP"                  @ string offset=778
+	.asciz	"FMC_Read_OTP"                  @ string offset=790
 .Linfo_string67:
-	.asciz	"FMC_Lock_OTP"                  @ string offset=791
+	.asciz	"FMC_Lock_OTP"                  @ string offset=803
 .Linfo_string68:
-	.asciz	"FMC_Is_OTP_Locked"             @ string offset=804
+	.asciz	"FMC_Is_OTP_Locked"             @ string offset=816
 .Linfo_string69:
-	.asciz	"FMC_ReadConfig"                @ string offset=822
+	.asciz	"FMC_ReadConfig"                @ string offset=834
 .Linfo_string70:
-	.asciz	"FMC_WriteConfig"               @ string offset=837
+	.asciz	"FMC_WriteConfig"               @ string offset=849
 .Linfo_string71:
-	.asciz	"FMC_GetChkSum"                 @ string offset=853
+	.asciz	"FMC_GetChkSum"                 @ string offset=865
 .Linfo_string72:
-	.asciz	"FMC_CheckAllOne"               @ string offset=867
+	.asciz	"FMC_CheckAllOne"               @ string offset=879
 .Linfo_string73:
-	.asciz	"FMC_SetSPKey"                  @ string offset=883
+	.asciz	"FMC_SetSPKey"                  @ string offset=895
 .Linfo_string74:
-	.asciz	"FMC_CompareSPKey"              @ string offset=896
+	.asciz	"FMC_CompareSPKey"              @ string offset=908
 .Linfo_string75:
-	.asciz	"u32XomBase"                    @ string offset=913
+	.asciz	"u32XomBase"                    @ string offset=925
 .Linfo_string76:
-	.asciz	"u8XomPage"                     @ string offset=924
+	.asciz	"u8XomPage"                     @ string offset=936
 .Linfo_string77:
-	.asciz	"unsigned char"                 @ string offset=934
+	.asciz	"unsigned char"                 @ string offset=946
 .Linfo_string78:
-	.asciz	"uint8_t"                       @ string offset=948
+	.asciz	"uint8_t"                       @ string offset=960
 .Linfo_string79:
-	.asciz	"u32BlockAddr"                  @ string offset=956
+	.asciz	"u32BlockAddr"                  @ string offset=968
 .Linfo_string80:
-	.asciz	"u32BankAddr"                   @ string offset=969
+	.asciz	"u32BankAddr"                   @ string offset=981
 .Linfo_string81:
-	.asciz	"err"                           @ string offset=981
+	.asciz	"err"                           @ string offset=993
 .Linfo_string82:
-	.asciz	"i32Active"                     @ string offset=985
+	.asciz	"i32Active"                     @ string offset=997
 .Linfo_string83:
-	.asciz	"u32addr"                       @ string offset=995
+	.asciz	"u32addr"                       @ string offset=1007
 .Linfo_string84:
-	.asciz	"u32data0"                      @ string offset=1003
+	.asciz	"u32data0"                      @ string offset=1015
 .Linfo_string85:
-	.asciz	"u32data1"                      @ string offset=1012
+	.asciz	"u32data1"                      @ string offset=1024
 .Linfo_string86:
-	.asciz	"i32BootSrc"                    @ string offset=1021
+	.asciz	"i32BootSrc"                    @ string offset=1033
 .Linfo_string87:
-	.asciz	"pu32Buf"                       @ string offset=1032
+	.asciz	"pu32Buf"                       @ string offset=1044
 .Linfo_string88:
-	.asciz	"u32Len"                        @ string offset=1040
+	.asciz	"u32Len"                        @ string offset=1052
 .Linfo_string89:
-	.asciz	"retval"                        @ string offset=1047
+	.asciz	"retval"                        @ string offset=1059
 .Linfo_string90:
-	.asciz	"idx"                           @ string offset=1054
+	.asciz	"idx"                           @ string offset=1066
 .Linfo_string91:
-	.asciz	"i"                             @ string offset=1058
+	.asciz	"i"                             @ string offset=1070
 .Linfo_string92:
-	.asciz	"otp_num"                       @ string offset=1060
+	.asciz	"otp_num"                       @ string offset=1072
 .Linfo_string93:
-	.asciz	"low_word"                      @ string offset=1068
+	.asciz	"low_word"                      @ string offset=1080
 .Linfo_string94:
-	.asciz	"high_word"                     @ string offset=1077
+	.asciz	"high_word"                     @ string offset=1089
 .Linfo_string95:
-	.asciz	"u32Config"                     @ string offset=1087
+	.asciz	"u32Config"                     @ string offset=1099
 .Linfo_string96:
-	.asciz	"u32Count"                      @ string offset=1097
+	.asciz	"u32Count"                      @ string offset=1109
 .Linfo_string97:
-	.asciz	"u32count"                      @ string offset=1106
+	.asciz	"u32count"                      @ string offset=1118
 .Linfo_string98:
-	.asciz	"key"                           @ string offset=1115
+	.asciz	"key"                           @ string offset=1127
 .Linfo_string99:
-	.asciz	"kpmax"                         @ string offset=1119
+	.asciz	"kpmax"                         @ string offset=1131
 .Linfo_string100:
-	.asciz	"kemax"                         @ string offset=1125
+	.asciz	"kemax"                         @ string offset=1137
 .Linfo_string101:
-	.asciz	"lock_CONFIG"                   @ string offset=1131
+	.asciz	"lock_CONFIG"                   @ string offset=1143
 .Linfo_string102:
-	.asciz	"lock_SPROM"                    @ string offset=1143
+	.asciz	"lock_SPROM"                    @ string offset=1155
 .Linfo_string103:
-	.asciz	"lock_ctrl"                     @ string offset=1154
+	.asciz	"lock_ctrl"                     @ string offset=1166
 .Linfo_string104:
-	.asciz	"u32KeySts"                     @ string offset=1164
+	.asciz	"u32KeySts"                     @ string offset=1176
 	.ident	"Component: Arm Compiler for Embedded 6.22 Tool: armclang [5ee92100]"
 	.section	".note.GNU-stack","",%progbits
 	.eabi_attribute	30, 1	@ Tag_ABI_optimization_goals

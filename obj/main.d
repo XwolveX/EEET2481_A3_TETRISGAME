@@ -72,7 +72,8 @@
   Library\emWin\Include\WIDGET.h Library\emWin\Include\GUI_Debug.h \
   Library\emWin\Include\SCROLLBAR.h Library\emWin\Include\DIALOG_Type.h \
   Library\emWin\Include\WIDGET_ID.h Library\emWin\Config\LCDConf.h \
-  Library\tslib\M48XTouchPanel.h Application\Source\Generated\Resource.h \
+  Library\tslib\M48XTouchPanel.h Library\emWin\Include\TEXT.h \
+  Application\Source\Generated\Resource.h \
   Library\emWin\Include\AppWizard.h Library\emWin\Include\DIALOG.h \
   Library\emWin\Include\BUTTON.h Library\emWin\Include\CALENDAR.h \
   Library\emWin\Include\CHECKBOX.h Library\emWin\Include\CHOOSECOLOR.h \
@@ -89,9 +90,8 @@
   Library\emWin\Include\ROTARY.h Library\emWin\Include\SCROLLER.h \
   Library\emWin\Include\SLIDER.h Library\emWin\Include\SPINBOX.h \
   Library\emWin\Include\SWIPELIST.h Library\emWin\Include\SWITCH.h \
-  Library\emWin\Include\TEXT.h Library\emWin\Include\TICKER.h \
-  Library\emWin\Include\TREEVIEW.h Library\emWin\Include\WHEEL.h \
-  Library\emWin\Include\BUTTON_Private.h \
+  Library\emWin\Include\TICKER.h Library\emWin\Include\TREEVIEW.h \
+  Library\emWin\Include\WHEEL.h Library\emWin\Include\BUTTON_Private.h \
   Library\emWin\Include\WM_Intern.h Library\emWin\Include\GUI_Private.h \
   Library\emWin\Include\LCD_Protected.h \
   Library\emWin\Include\WINDOW_Private.h \

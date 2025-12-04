@@ -22,11 +22,11 @@
 	.eabi_attribute	26, 1	@ Tag_ABI_enum_size
 	.eabi_attribute	14, 0	@ Tag_ABI_PCS_R9_use
 	.file	"ID_SCREEN_PLAY.c"
-	.file	1 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/emWin/Include\\AppWizard.h"
-	.file	2 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/emWin/Include\\GUI_Type.h"
-	.file	3 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/emWin/Include\\WM.h"
-	.file	4 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/emWin/Include\\LCD.h"
-	.file	5 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "Application/Source/Generated/ID_SCREEN_PLAY.c"
+	.file	1 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/emWin/Include\\AppWizard.h"
+	.file	2 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/emWin/Include\\GUI_Type.h"
+	.file	3 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/emWin/Include\\WM.h"
+	.file	4 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/emWin/Include\\LCD.h"
+	.file	5 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "Application/Source/Generated/ID_SCREEN_PLAY.c"
 	.type	_aCreate,%object                @ @_aCreate
 	.section	.data._aCreate,"aw",%progbits
 	.p2align	2, 0x0
@@ -72,7 +72,7 @@ _aCreate:
 	.zero	16
 	.zero	16
 	.long	240                             @ 0xf0
-	.long	326                             @ 0x146
+	.long	320                             @ 0x140
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.byte	0                               @ 0x0
@@ -141,7 +141,7 @@ _aCreate:
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.long	2                               @ 0x2
-	.long	70                              @ 0x46
+	.long	73                              @ 0x49
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.long	2                               @ 0x2
@@ -149,7 +149,7 @@ _aCreate:
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.long	2                               @ 0x2
-	.long	70                              @ 0x46
+	.long	67                              @ 0x43
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
@@ -237,7 +237,7 @@ _aCreate:
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.long	2                               @ 0x2
-	.long	112                             @ 0x70
+	.long	105                             @ 0x69
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.zero	16
@@ -258,7 +258,7 @@ _aCreate:
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.long	2                               @ 0x2
-	.long	133                             @ 0x85
+	.long	141                             @ 0x8d
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.zero	16
@@ -271,28 +271,70 @@ _aCreate:
 	.zero	3
 	.long	0                               @ 0x0
 	.zero	4
-	.long	WM_OBJECT_GAUGE_Create
+	.long	WM_OBJECT_TEXT_Create
 	.long	2056                            @ 0x808
 	.long	6145                            @ 0x1801
 	.long	2                               @ 0x2
-	.long	4294967279                      @ 0xffffffef
+	.long	160                             @ 0xa0
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.long	2                               @ 0x2
-	.long	112                             @ 0x70
+	.long	178                             @ 0xb2
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.zero	16
 	.zero	16
-	.long	195                             @ 0xc3
-	.long	100                             @ 0x64
+	.long	70                              @ 0x46
+	.long	21                              @ 0x15
 	.long	0                               @ 0x0
 	.long	0                               @ 0x0
 	.byte	0                               @ 0x0
 	.zero	3
 	.long	0                               @ 0x0
 	.zero	4
-	.size	_aCreate, 1144
+	.long	WM_OBJECT_TEXT_Create
+	.long	2057                            @ 0x809
+	.long	6145                            @ 0x1801
+	.long	2                               @ 0x2
+	.long	160                             @ 0xa0
+	.long	0                               @ 0x0
+	.long	0                               @ 0x0
+	.long	2                               @ 0x2
+	.long	10                              @ 0xa
+	.long	0                               @ 0x0
+	.long	0                               @ 0x0
+	.zero	16
+	.zero	16
+	.long	70                              @ 0x46
+	.long	10                              @ 0xa
+	.long	0                               @ 0x0
+	.long	0                               @ 0x0
+	.byte	0                               @ 0x0
+	.zero	3
+	.long	0                               @ 0x0
+	.zero	4
+	.long	WM_OBJECT_TEXT_Create
+	.long	2058                            @ 0x80a
+	.long	6145                            @ 0x1801
+	.long	2                               @ 0x2
+	.long	160                             @ 0xa0
+	.long	0                               @ 0x0
+	.long	0                               @ 0x0
+	.long	2                               @ 0x2
+	.long	214                             @ 0xd6
+	.long	0                               @ 0x0
+	.long	0                               @ 0x0
+	.zero	16
+	.zero	16
+	.long	70                              @ 0x46
+	.long	21                              @ 0x15
+	.long	0                               @ 0x0
+	.long	0                               @ 0x0
+	.byte	0                               @ 0x0
+	.zero	3
+	.long	0                               @ 0x0
+	.zero	4
+	.size	_aCreate, 1352
 
 	.type	_aSetup,%object                 @ @_aSetup
 	.section	.rodata._aSetup,"a",%progbits
@@ -475,39 +517,6 @@ _aSetup:
 	.zero	12
 	.long	2055                            @ 0x807
 	.long	22                              @ 0x16
-	.long	2055                            @ 0x807
-	.long	0
-	.long	0
-	.zero	12
-	.zero	12
-	.zero	12
-	.zero	12
-	.zero	12
-	.long	2056                            @ 0x808
-	.long	8                               @ 0x8
-	.long	6                               @ 0x6
-	.long	0
-	.long	0
-	.zero	12
-	.long	4294967273                      @ 0xffffffe9
-	.long	0
-	.long	0
-	.zero	12
-	.zero	12
-	.zero	12
-	.long	2056                            @ 0x808
-	.long	39                              @ 0x27
-	.zero	12
-	.long	1800                            @ 0x708
-	.long	0
-	.long	0
-	.zero	12
-	.zero	12
-	.zero	12
-	.zero	12
-	.long	2056                            @ 0x808
-	.long	40                              @ 0x28
-	.zero	12
 	.long	10                              @ 0xa
 	.long	0
 	.long	0
@@ -515,35 +524,99 @@ _aSetup:
 	.zero	12
 	.zero	12
 	.zero	12
-	.long	2056                            @ 0x808
-	.long	54                              @ 0x36
-	.long	50                              @ 0x32
-	.long	0
-	.long	0
-	.zero	12
-	.zero	12
-	.zero	12
-	.zero	12
 	.zero	12
 	.long	2056                            @ 0x808
-	.long	29                              @ 0x1d
-	.long	4281084976                      @ 0xff2c2c30
+	.long	0                               @ 0x0
+	.long	4290822336                      @ 0xffc0c0c0
 	.long	0
 	.long	0
-	.long	4280776627                      @ 0xff2777b3
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.long	2056                            @ 0x808
+	.long	7                               @ 0x7
+	.long	14                              @ 0xe
 	.long	0
 	.long	0
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.long	2056                            @ 0x808
+	.long	22                              @ 0x16
+	.long	11                              @ 0xb
+	.long	0
+	.long	0
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.long	2057                            @ 0x809
+	.long	0                               @ 0x0
+	.long	4290822336                      @ 0xffc0c0c0
+	.long	0
+	.long	0
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.long	2057                            @ 0x809
+	.long	7                               @ 0x7
+	.long	14                              @ 0xe
+	.long	0
+	.long	0
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.long	2057                            @ 0x809
+	.long	22                              @ 0x16
+	.long	12                              @ 0xc
+	.long	0
+	.long	0
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.long	2057                            @ 0x809
+	.long	32                              @ 0x20
 	.long	11259375                        @ 0xabcdef
 	.long	0
 	.long	0
 	.zero	12
 	.zero	12
 	.zero	12
-	.long	2056                            @ 0x808
-	.long	41                              @ 0x29
-	.long	19                              @ 0x13
+	.zero	12
+	.zero	12
+	.long	2058                            @ 0x80a
+	.long	0                               @ 0x0
+	.long	4290822336                      @ 0xffc0c0c0
 	.long	0
 	.long	0
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.long	2058                            @ 0x80a
+	.long	7                               @ 0x7
+	.long	14                              @ 0xe
+	.long	0
+	.long	0
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.zero	12
+	.long	2058                            @ 0x80a
+	.long	22                              @ 0x16
 	.long	13                              @ 0xd
 	.long	0
 	.long	0
@@ -551,45 +624,8 @@ _aSetup:
 	.zero	12
 	.zero	12
 	.zero	12
-	.long	2056                            @ 0x808
-	.long	78                              @ 0x4e
-	.zero	72
-	.long	2056                            @ 0x808
-	.long	79                              @ 0x4f
-	.zero	72
-	.long	2056                            @ 0x808
-	.long	48                              @ 0x30
-	.zero	72
-	.size	_aSetup, 2240
-
-	.type	_aAction,%object                @ @_aAction
-	.section	.rodata._aAction,"a",%progbits
-	.p2align	2, 0x0
-_aAction:
-	.long	4096                            @ 0x1000
-	.long	5                               @ 0x5
-	.long	2056                            @ 0x808
-	.long	7                               @ 0x7
-	.long	ID_SCREEN_PLAY__WM_NOTIFICATION_VALUE_CHANGED__ID_GAUGE_00__APPW_JOB_SETVALUE
-	.zero	72
-	.long	0                               @ 0x0
-	.long	0
-	.long	4096                            @ 0x1000
-	.long	5                               @ 0x5
-	.long	2055                            @ 0x807
-	.long	21                              @ 0x15
-	.long	ID_SCREEN_PLAY__WM_NOTIFICATION_VALUE_CHANGED__ID_TEXT_TIME_VALUE__APPW_JOB_SETTEXT
-	.long	4294967295                      @ 0xffffffff
-	.long	0
-	.long	0
 	.zero	12
-	.zero	12
-	.zero	12
-	.zero	12
-	.zero	12
-	.long	0                               @ 0x0
-	.long	0
-	.size	_aAction, 200
+	.size	_aSetup, 2320
 
 	.hidden	ID_SCREEN_PLAY_RootInfo         @ @ID_SCREEN_PLAY_RootInfo
 	.type	ID_SCREEN_PLAY_RootInfo,%object
@@ -600,11 +636,11 @@ ID_SCREEN_PLAY_RootInfo:
 	.short	6145                            @ 0x1801
 	.zero	2
 	.long	_aCreate
-	.long	11                              @ 0xb
+	.long	13                              @ 0xd
 	.long	_aSetup
-	.long	28                              @ 0x1c
-	.long	_aAction
-	.long	2                               @ 0x2
+	.long	29                              @ 0x1d
+	.long	0
+	.long	0                               @ 0x0
 	.long	cbID_SCREEN_PLAY
 	.long	0                               @ 0x0
 	.size	ID_SCREEN_PLAY_RootInfo, 36
@@ -833,7 +869,7 @@ ID_SCREEN_PLAY_RootInfo:
 	.short	4                               @ DWARF version number
 	.long	.debug_abbrev                   @ Offset Into Abbrev. Section
 	.byte	4                               @ Address Size (in bytes)
-	.byte	1                               @ Abbrev [1] 0xb:0x58d DW_TAG_compile_unit
+	.byte	1                               @ Abbrev [1] 0xb:0x570 DW_TAG_compile_unit
 	.long	.Linfo_string0                  @ DW_AT_producer
 	.short	12                              @ DW_AT_language
 	.long	.Linfo_string1                  @ DW_AT_name
@@ -844,7 +880,7 @@ ID_SCREEN_PLAY_RootInfo:
 	.long	47                              @ DW_AT_type
                                         @ DW_AT_external
 	.byte	5                               @ DW_AT_decl_file
-	.byte	230                             @ DW_AT_decl_line
+	.byte	237                             @ DW_AT_decl_line
 	.byte	5                               @ DW_AT_location
 	.byte	3
 	.long	ID_SCREEN_PLAY_RootInfo
@@ -1485,13 +1521,13 @@ ID_SCREEN_PLAY_RootInfo:
 	.long	194                             @ DW_AT_type
 	.byte	11                              @ Abbrev [11] 0x556:0x6 DW_TAG_subrange_type
 	.long	525                             @ DW_AT_type
-	.byte	11                              @ DW_AT_count
+	.byte	13                              @ DW_AT_count
 	.byte	0                               @ End Of Children Mark
 	.byte	21                              @ Abbrev [21] 0x55d:0x11 DW_TAG_variable
 	.long	.Linfo_string78                 @ DW_AT_name
 	.long	1390                            @ DW_AT_type
 	.byte	5                               @ DW_AT_decl_file
-	.byte	158                             @ DW_AT_decl_line
+	.byte	180                             @ DW_AT_decl_line
 	.byte	5                               @ DW_AT_location
 	.byte	3
 	.long	_aSetup
@@ -1499,21 +1535,7 @@ ID_SCREEN_PLAY_RootInfo:
 	.long	570                             @ DW_AT_type
 	.byte	11                              @ Abbrev [11] 0x573:0x6 DW_TAG_subrange_type
 	.long	525                             @ DW_AT_type
-	.byte	28                              @ DW_AT_count
-	.byte	0                               @ End Of Children Mark
-	.byte	21                              @ Abbrev [21] 0x57a:0x11 DW_TAG_variable
-	.long	.Linfo_string79                 @ DW_AT_name
-	.long	1419                            @ DW_AT_type
-	.byte	5                               @ DW_AT_decl_file
-	.byte	209                             @ DW_AT_decl_line
-	.byte	5                               @ DW_AT_location
-	.byte	3
-	.long	_aAction
-	.byte	10                              @ Abbrev [10] 0x58b:0xc DW_TAG_array_type
-	.long	718                             @ DW_AT_type
-	.byte	11                              @ Abbrev [11] 0x590:0x6 DW_TAG_subrange_type
-	.long	525                             @ DW_AT_type
-	.byte	2                               @ DW_AT_count
+	.byte	29                              @ DW_AT_count
 	.byte	0                               @ End Of Children Mark
 	.byte	0                               @ End Of Children Mark
 .Ldebug_info_end0:
@@ -1523,161 +1545,159 @@ ID_SCREEN_PLAY_RootInfo:
 .Linfo_string1:
 	.asciz	"Application/Source/Generated\\ID_SCREEN_PLAY.c" @ string offset=68
 .Linfo_string2:
-	.asciz	"C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" @ string offset=114
+	.asciz	"C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" @ string offset=114
 .Linfo_string3:
-	.asciz	"ID_SCREEN_PLAY_RootInfo"       @ string offset=167
+	.asciz	"ID_SCREEN_PLAY_RootInfo"       @ string offset=179
 .Linfo_string4:
-	.asciz	"RootId"                        @ string offset=191
+	.asciz	"RootId"                        @ string offset=203
 .Linfo_string5:
-	.asciz	"unsigned short"                @ string offset=198
+	.asciz	"unsigned short"                @ string offset=210
 .Linfo_string6:
-	.asciz	"pCreateInfo"                   @ string offset=213
+	.asciz	"pCreateInfo"                   @ string offset=225
 .Linfo_string7:
-	.asciz	"pfCreate"                      @ string offset=225
+	.asciz	"pfCreate"                      @ string offset=237
 .Linfo_string8:
-	.asciz	"long"                          @ string offset=234
+	.asciz	"long"                          @ string offset=246
 .Linfo_string9:
-	.asciz	"GUI_HWIN"                      @ string offset=239
+	.asciz	"GUI_HWIN"                      @ string offset=251
 .Linfo_string10:
-	.asciz	"aDisposeCoord"                 @ string offset=248
+	.asciz	"aDisposeCoord"                 @ string offset=260
 .Linfo_string11:
-	.asciz	"Mode"                          @ string offset=262
+	.asciz	"Mode"                          @ string offset=274
 .Linfo_string12:
-	.asciz	"int"                           @ string offset=267
+	.asciz	"int"                           @ string offset=279
 .Linfo_string13:
-	.asciz	"Off"                           @ string offset=271
+	.asciz	"Off"                           @ string offset=283
 .Linfo_string14:
-	.asciz	"Id"                            @ string offset=275
+	.asciz	"Id"                            @ string offset=287
 .Linfo_string15:
-	.asciz	"Valid"                         @ string offset=278
+	.asciz	"Valid"                         @ string offset=290
 .Linfo_string16:
-	.asciz	"APPW_DISPOSE_COORD"            @ string offset=284
+	.asciz	"APPW_DISPOSE_COORD"            @ string offset=296
 .Linfo_string17:
-	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=303
+	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=315
 .Linfo_string18:
-	.asciz	"xSize"                         @ string offset=323
+	.asciz	"xSize"                         @ string offset=335
 .Linfo_string19:
-	.asciz	"ySize"                         @ string offset=329
+	.asciz	"ySize"                         @ string offset=341
 .Linfo_string20:
-	.asciz	"xSizeMin"                      @ string offset=335
+	.asciz	"xSizeMin"                      @ string offset=347
 .Linfo_string21:
-	.asciz	"ySizeMin"                      @ string offset=344
+	.asciz	"ySizeMin"                      @ string offset=356
 .Linfo_string22:
-	.asciz	"State"                         @ string offset=353
+	.asciz	"State"                         @ string offset=365
 .Linfo_string23:
-	.asciz	"unsigned char"                 @ string offset=359
+	.asciz	"unsigned char"                 @ string offset=371
 .Linfo_string24:
-	.asciz	"Flags"                         @ string offset=373
+	.asciz	"Flags"                         @ string offset=385
 .Linfo_string25:
-	.asciz	"unsigned long"                 @ string offset=379
+	.asciz	"unsigned long"                 @ string offset=391
 .Linfo_string26:
-	.asciz	"APPW_DISPOSE"                  @ string offset=393
+	.asciz	"APPW_DISPOSE"                  @ string offset=405
 .Linfo_string27:
-	.asciz	"IdParent"                      @ string offset=406
+	.asciz	"IdParent"                      @ string offset=418
 .Linfo_string28:
-	.asciz	"Dispose"                       @ string offset=415
+	.asciz	"Dispose"                       @ string offset=427
 .Linfo_string29:
-	.asciz	"aIdDraw"                       @ string offset=423
+	.asciz	"aIdDraw"                       @ string offset=435
 .Linfo_string30:
-	.asciz	"APPW_CREATE_ITEM"              @ string offset=431
+	.asciz	"APPW_CREATE_ITEM"              @ string offset=443
 .Linfo_string31:
-	.asciz	"NumCreateInfo"                 @ string offset=448
+	.asciz	"NumCreateInfo"                 @ string offset=460
 .Linfo_string32:
-	.asciz	"unsigned int"                  @ string offset=462
+	.asciz	"unsigned int"                  @ string offset=474
 .Linfo_string33:
-	.asciz	"pSetupInfo"                    @ string offset=475
+	.asciz	"pSetupInfo"                    @ string offset=487
 .Linfo_string34:
-	.asciz	"Command"                       @ string offset=486
+	.asciz	"Command"                       @ string offset=498
 .Linfo_string35:
-	.asciz	"aPara"                         @ string offset=494
+	.asciz	"aPara"                         @ string offset=506
 .Linfo_string36:
-	.asciz	"v"                             @ string offset=500
+	.asciz	"v"                             @ string offset=512
 .Linfo_string37:
-	.asciz	"p"                             @ string offset=502
+	.asciz	"p"                             @ string offset=514
 .Linfo_string38:
-	.asciz	"pFunc"                         @ string offset=504
+	.asciz	"pFunc"                         @ string offset=516
 .Linfo_string39:
-	.asciz	"APPW_PARA_ITEM"                @ string offset=510
+	.asciz	"APPW_PARA_ITEM"                @ string offset=522
 .Linfo_string40:
-	.asciz	"APPW_SETUP_ITEM"               @ string offset=525
+	.asciz	"APPW_SETUP_ITEM"               @ string offset=537
 .Linfo_string41:
-	.asciz	"NumSetupInfo"                  @ string offset=541
+	.asciz	"NumSetupInfo"                  @ string offset=553
 .Linfo_string42:
-	.asciz	"pActionInfo"                   @ string offset=554
+	.asciz	"pActionInfo"                   @ string offset=566
 .Linfo_string43:
-	.asciz	"IdSrc"                         @ string offset=566
+	.asciz	"IdSrc"                         @ string offset=578
 .Linfo_string44:
-	.asciz	"NCode"                         @ string offset=572
+	.asciz	"NCode"                         @ string offset=584
 .Linfo_string45:
-	.asciz	"IdDst"                         @ string offset=578
+	.asciz	"IdDst"                         @ string offset=590
 .Linfo_string46:
-	.asciz	"IdJob"                         @ string offset=584
+	.asciz	"IdJob"                         @ string offset=596
 .Linfo_string47:
-	.asciz	"pfSlot"                        @ string offset=590
+	.asciz	"pfSlot"                        @ string offset=602
 .Linfo_string48:
-	.asciz	"MsgId"                         @ string offset=597
+	.asciz	"MsgId"                         @ string offset=609
 .Linfo_string49:
-	.asciz	"hWin"                          @ string offset=603
+	.asciz	"hWin"                          @ string offset=615
 .Linfo_string50:
-	.asciz	"hWinSrc"                       @ string offset=608
+	.asciz	"hWinSrc"                       @ string offset=620
 .Linfo_string51:
-	.asciz	"Data"                          @ string offset=616
+	.asciz	"Data"                          @ string offset=628
 .Linfo_string52:
-	.asciz	"pData"                         @ string offset=621
+	.asciz	"pData"                         @ string offset=633
 .Linfo_string53:
-	.asciz	"u"                             @ string offset=627
+	.asciz	"u"                             @ string offset=639
 .Linfo_string54:
-	.asciz	"Color"                         @ string offset=629
+	.asciz	"Color"                         @ string offset=641
 .Linfo_string55:
-	.asciz	"LCD_COLOR"                     @ string offset=635
+	.asciz	"LCD_COLOR"                     @ string offset=647
 .Linfo_string56:
-	.asciz	"GUI_COLOR"                     @ string offset=645
+	.asciz	"GUI_COLOR"                     @ string offset=657
 .Linfo_string57:
-	.asciz	"WM_MESSAGE"                    @ string offset=655
+	.asciz	"WM_MESSAGE"                    @ string offset=667
 .Linfo_string58:
-	.asciz	"pCond"                         @ string offset=666
+	.asciz	"pCond"                         @ string offset=678
 .Linfo_string59:
-	.asciz	"pTerm"                         @ string offset=672
+	.asciz	"pTerm"                         @ string offset=684
 .Linfo_string60:
-	.asciz	"char"                          @ string offset=678
+	.asciz	"char"                          @ string offset=690
 .Linfo_string61:
-	.asciz	"pComp"                         @ string offset=683
+	.asciz	"pComp"                         @ string offset=695
 .Linfo_string62:
-	.asciz	"aAtom"                         @ string offset=689
+	.asciz	"aAtom"                         @ string offset=701
 .Linfo_string63:
-	.asciz	"Value"                         @ string offset=695
+	.asciz	"Value"                         @ string offset=707
 .Linfo_string64:
-	.asciz	"Offset"                        @ string offset=701
+	.asciz	"Offset"                        @ string offset=713
 .Linfo_string65:
-	.asciz	"short"                         @ string offset=708
+	.asciz	"short"                         @ string offset=720
 .Linfo_string66:
-	.asciz	"Item"                          @ string offset=714
+	.asciz	"Item"                          @ string offset=726
 .Linfo_string67:
-	.asciz	"Detail"                        @ string offset=719
+	.asciz	"Detail"                        @ string offset=731
 .Linfo_string68:
-	.asciz	"APPW_ATOM"                     @ string offset=726
+	.asciz	"APPW_ATOM"                     @ string offset=738
 .Linfo_string69:
-	.asciz	"APPW_COND_COMP"                @ string offset=736
+	.asciz	"APPW_COND_COMP"                @ string offset=748
 .Linfo_string70:
-	.asciz	"nComp"                         @ string offset=751
+	.asciz	"nComp"                         @ string offset=763
 .Linfo_string71:
-	.asciz	"APPW_COND"                     @ string offset=757
+	.asciz	"APPW_COND"                     @ string offset=769
 .Linfo_string72:
-	.asciz	"APPW_ACTION_ITEM"              @ string offset=767
+	.asciz	"APPW_ACTION_ITEM"              @ string offset=779
 .Linfo_string73:
-	.asciz	"NumActionInfo"                 @ string offset=784
+	.asciz	"NumActionInfo"                 @ string offset=796
 .Linfo_string74:
-	.asciz	"cb"                            @ string offset=798
+	.asciz	"cb"                            @ string offset=810
 .Linfo_string75:
-	.asciz	"WM_CALLBACK"                   @ string offset=801
+	.asciz	"WM_CALLBACK"                   @ string offset=813
 .Linfo_string76:
-	.asciz	"APPW_ROOT_INFO"                @ string offset=813
+	.asciz	"APPW_ROOT_INFO"                @ string offset=825
 .Linfo_string77:
-	.asciz	"_aCreate"                      @ string offset=828
+	.asciz	"_aCreate"                      @ string offset=840
 .Linfo_string78:
-	.asciz	"_aSetup"                       @ string offset=837
-.Linfo_string79:
-	.asciz	"_aAction"                      @ string offset=845
+	.asciz	"_aSetup"                       @ string offset=849
 	.ident	"Component: Arm Compiler for Embedded 6.22 Tool: armclang [5ee92100]"
 	.section	".note.GNU-stack","",%progbits
 	.ARM_attribute	16, 1	@ Tag_AV_eba

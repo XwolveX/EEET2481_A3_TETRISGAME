@@ -22,7 +22,7 @@
 	.eabi_attribute	26, 1	@ Tag_ABI_enum_size
 	.eabi_attribute	14, 0	@ Tag_ABI_PCS_R9_use
 	.file	"GUI_X.c"
-	.file	1 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "Library/emWin/Config/GUI_X.c"
+	.file	1 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "Library/emWin/Config/GUI_X.c"
 	.section	.text.GUI_X_GetTime,"ax",%progbits
 	.hidden	GUI_X_GetTime                   @ -- Begin function GUI_X_GetTime
 	.globl	GUI_X_GetTime
@@ -886,51 +886,51 @@ OS_TimeMS:
 .Linfo_string1:
 	.asciz	"Library/emWin/Config\\GUI_X.c" @ string offset=68
 .Linfo_string2:
-	.asciz	"C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" @ string offset=97
+	.asciz	"C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" @ string offset=97
 .Linfo_string3:
-	.asciz	"OS_TimeMS"                     @ string offset=150
+	.asciz	"OS_TimeMS"                     @ string offset=162
 .Linfo_string4:
-	.asciz	"int"                           @ string offset=160
+	.asciz	"int"                           @ string offset=172
 .Linfo_string5:
-	.asciz	"GUI_X_GetTime"                 @ string offset=164
+	.asciz	"GUI_X_GetTime"                 @ string offset=176
 .Linfo_string6:
-	.asciz	"GUI_X_Delay"                   @ string offset=178
+	.asciz	"GUI_X_Delay"                   @ string offset=190
 .Linfo_string7:
-	.asciz	"GUI_X_Init"                    @ string offset=190
+	.asciz	"GUI_X_Init"                    @ string offset=202
 .Linfo_string8:
-	.asciz	"GUI_X_ExecIdle"                @ string offset=201
+	.asciz	"GUI_X_ExecIdle"                @ string offset=213
 .Linfo_string9:
-	.asciz	"GUI_X_Log"                     @ string offset=216
+	.asciz	"GUI_X_Log"                     @ string offset=228
 .Linfo_string10:
-	.asciz	"GUI_X_Warn"                    @ string offset=226
+	.asciz	"GUI_X_Warn"                    @ string offset=238
 .Linfo_string11:
-	.asciz	"GUI_X_ErrorOut"                @ string offset=237
+	.asciz	"GUI_X_ErrorOut"                @ string offset=249
 .Linfo_string12:
-	.asciz	"GUI_X_InitOS"                  @ string offset=252
+	.asciz	"GUI_X_InitOS"                  @ string offset=264
 .Linfo_string13:
-	.asciz	"GUI_X_Unlock"                  @ string offset=265
+	.asciz	"GUI_X_Unlock"                  @ string offset=277
 .Linfo_string14:
-	.asciz	"GUI_X_Lock"                    @ string offset=278
+	.asciz	"GUI_X_Lock"                    @ string offset=290
 .Linfo_string15:
-	.asciz	"GUI_X_GetTaskId"               @ string offset=289
+	.asciz	"GUI_X_GetTaskId"               @ string offset=301
 .Linfo_string16:
-	.asciz	"unsigned long"                 @ string offset=305
+	.asciz	"unsigned long"                 @ string offset=317
 .Linfo_string17:
-	.asciz	"GUI_X_WaitEvent"               @ string offset=319
+	.asciz	"GUI_X_WaitEvent"               @ string offset=331
 .Linfo_string18:
-	.asciz	"GUI_X_SignalEvent"             @ string offset=335
+	.asciz	"GUI_X_SignalEvent"             @ string offset=347
 .Linfo_string19:
-	.asciz	"GUI_X_WaitEventTimed"          @ string offset=353
+	.asciz	"GUI_X_WaitEventTimed"          @ string offset=365
 .Linfo_string20:
-	.asciz	"ms"                            @ string offset=374
+	.asciz	"ms"                            @ string offset=386
 .Linfo_string21:
-	.asciz	"tEnd"                          @ string offset=377
+	.asciz	"tEnd"                          @ string offset=389
 .Linfo_string22:
-	.asciz	"s"                             @ string offset=382
+	.asciz	"s"                             @ string offset=394
 .Linfo_string23:
-	.asciz	"char"                          @ string offset=384
+	.asciz	"char"                          @ string offset=396
 .Linfo_string24:
-	.asciz	"Period"                        @ string offset=389
+	.asciz	"Period"                        @ string offset=401
 	.ident	"Component: Arm Compiler for Embedded 6.22 Tool: armclang [5ee92100]"
 	.section	".note.GNU-stack","",%progbits
 	.eabi_attribute	30, 1	@ Tag_ABI_optimization_goals

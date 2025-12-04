@@ -31,15 +31,15 @@ Purpose     : Generated file do NOT edit!
 #define ID_TEXT_NCODE       (GUI_ID_USER + 11)
 #define ID_TEXT_NCODE_VALUE (GUI_ID_USER + 5)
 #define ID_TEXT_TIME        (GUI_ID_USER + 6)
-#define ID_TEXT_TIME_VALUE  (GUI_ID_USER + 7)
-#define ID_GAUGE_00         (GUI_ID_USER + 8)
+#define ID_TEXT_LEVEL       (GUI_ID_USER + 7)
+#define ID_TEXT_SCORE       (GUI_ID_USER + 8)
+#define ID_TEXT_NCODE_Copy  (GUI_ID_USER + 9)
+#define ID_TEXT_LINE        (GUI_ID_USER + 10)
 
 /*********************************************************************
 *
 *       Slots
 */
-void ID_SCREEN_PLAY__WM_NOTIFICATION_VALUE_CHANGED__ID_GAUGE_00__APPW_JOB_SETVALUE      (APPW_ACTION_ITEM * pAction, WM_HWIN hScreen, WM_MESSAGE * pMsg, int * pResult);
-void ID_SCREEN_PLAY__WM_NOTIFICATION_VALUE_CHANGED__ID_TEXT_TIME_VALUE__APPW_JOB_SETTEXT(APPW_ACTION_ITEM * pAction, WM_HWIN hScreen, WM_MESSAGE * pMsg, int * pResult);
 
 /*********************************************************************
 *

@@ -33,6 +33,10 @@ Purpose     : Generated file do NOT edit!
 #define ID_RTEXT_3 7
 #define ID_RTEXT_4 8
 #define ID_TEXT_TIME_VALUE 9
+#define ID_RTEXT_5 10
+#define ID_RTEXT_6 11
+#define ID_RTEXT_7 12
+#define ID_RTEXT_8 13
 
 extern GUI_CONST_STORAGE unsigned char acAPPW_Language_0[];
 
@@ -83,7 +87,7 @@ extern APPW_ROOT_INFO ID_SCREEN_HIGH_SCORE_RootInfo;
 *
 *       Project path
 */
-#define APPW_PROJECT_PATH "C:/Users/dinhl/AppData/Local/AppWizard/Project/tetrisgame"
+#define APPW_PROJECT_PATH "C:/Users/dinhl/Documents/M487/tetrisgame"
 
 #endif  // RESOURCE_H
 

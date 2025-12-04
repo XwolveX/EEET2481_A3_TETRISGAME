@@ -23,7 +23,7 @@
 	.eabi_attribute	14, 0	@ Tag_ABI_PCS_R9_use
 	.file	"eadc.c"
 	.file	1 "C:\\Users\\dinhl" "AppData\\Local\\Keil_v5\\ARM\\ARMCLANG\\bin\\..\\include\\stdint.h"
-	.file	2 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "Library/StdDriver/src/eadc.c"
+	.file	2 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "Library/StdDriver/src/eadc.c"
 	.section	.text.EADC_Open,"ax",%progbits
 	.hidden	EADC_Open                       @ -- Begin function EADC_Open
 	.globl	EADC_Open
@@ -337,7 +337,7 @@ g_EADC_i32ErrCode:
 	.long	0                               @ 0x0
 	.size	g_EADC_i32ErrCode, 4
 
-	.file	3 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/Device/Nuvoton/M480/Include\\eadc_reg.h"
+	.file	3 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/Device/Nuvoton/M480/Include\\eadc_reg.h"
 	.section	.debug_loc,"",%progbits
 .Ldebug_loc0:
 	.long	-1
@@ -1174,91 +1174,91 @@ g_EADC_i32ErrCode:
 .Linfo_string1:
 	.asciz	"Library/StdDriver/src\\eadc.c" @ string offset=68
 .Linfo_string2:
-	.asciz	"C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" @ string offset=97
+	.asciz	"C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" @ string offset=97
 .Linfo_string3:
-	.asciz	"g_EADC_i32ErrCode"             @ string offset=150
+	.asciz	"g_EADC_i32ErrCode"             @ string offset=162
 .Linfo_string4:
-	.asciz	"int"                           @ string offset=168
+	.asciz	"int"                           @ string offset=180
 .Linfo_string5:
-	.asciz	"int32_t"                       @ string offset=172
+	.asciz	"int32_t"                       @ string offset=184
 .Linfo_string6:
-	.asciz	"EADC_Open"                     @ string offset=180
+	.asciz	"EADC_Open"                     @ string offset=192
 .Linfo_string7:
-	.asciz	"EADC_Close"                    @ string offset=190
+	.asciz	"EADC_Close"                    @ string offset=202
 .Linfo_string8:
-	.asciz	"EADC_ConfigSampleModule"       @ string offset=201
+	.asciz	"EADC_ConfigSampleModule"       @ string offset=213
 .Linfo_string9:
-	.asciz	"EADC_SetTriggerDelayTime"      @ string offset=225
+	.asciz	"EADC_SetTriggerDelayTime"      @ string offset=237
 .Linfo_string10:
-	.asciz	"EADC_SetExtendSampleTime"      @ string offset=250
+	.asciz	"EADC_SetExtendSampleTime"      @ string offset=262
 .Linfo_string11:
-	.asciz	"eadc"                          @ string offset=275
+	.asciz	"eadc"                          @ string offset=287
 .Linfo_string12:
-	.asciz	"DAT"                           @ string offset=280
+	.asciz	"DAT"                           @ string offset=292
 .Linfo_string13:
-	.asciz	"unsigned int"                  @ string offset=284
+	.asciz	"unsigned int"                  @ string offset=296
 .Linfo_string14:
-	.asciz	"uint32_t"                      @ string offset=297
+	.asciz	"uint32_t"                      @ string offset=309
 .Linfo_string15:
-	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=306
+	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=318
 .Linfo_string16:
-	.asciz	"CURDAT"                        @ string offset=326
+	.asciz	"CURDAT"                        @ string offset=338
 .Linfo_string17:
-	.asciz	"CTL"                           @ string offset=333
+	.asciz	"CTL"                           @ string offset=345
 .Linfo_string18:
-	.asciz	"SWTRG"                         @ string offset=337
+	.asciz	"SWTRG"                         @ string offset=349
 .Linfo_string19:
-	.asciz	"PENDSTS"                       @ string offset=343
+	.asciz	"PENDSTS"                       @ string offset=355
 .Linfo_string20:
-	.asciz	"OVSTS"                         @ string offset=351
+	.asciz	"OVSTS"                         @ string offset=363
 .Linfo_string21:
-	.asciz	"RESERVE0"                      @ string offset=357
+	.asciz	"RESERVE0"                      @ string offset=369
 .Linfo_string22:
-	.asciz	"SCTL"                          @ string offset=366
+	.asciz	"SCTL"                          @ string offset=378
 .Linfo_string23:
-	.asciz	"RESERVE1"                      @ string offset=371
+	.asciz	"RESERVE1"                      @ string offset=383
 .Linfo_string24:
-	.asciz	"INTSRC"                        @ string offset=380
+	.asciz	"INTSRC"                        @ string offset=392
 .Linfo_string25:
-	.asciz	"CMP"                           @ string offset=387
+	.asciz	"CMP"                           @ string offset=399
 .Linfo_string26:
-	.asciz	"STATUS0"                       @ string offset=391
+	.asciz	"STATUS0"                       @ string offset=403
 .Linfo_string27:
-	.asciz	"STATUS1"                       @ string offset=399
+	.asciz	"STATUS1"                       @ string offset=411
 .Linfo_string28:
-	.asciz	"STATUS2"                       @ string offset=407
+	.asciz	"STATUS2"                       @ string offset=419
 .Linfo_string29:
-	.asciz	"STATUS3"                       @ string offset=415
+	.asciz	"STATUS3"                       @ string offset=427
 .Linfo_string30:
-	.asciz	"DDAT"                          @ string offset=423
+	.asciz	"DDAT"                          @ string offset=435
 .Linfo_string31:
-	.asciz	"PWRM"                          @ string offset=428
+	.asciz	"PWRM"                          @ string offset=440
 .Linfo_string32:
-	.asciz	"CALCTL"                        @ string offset=433
+	.asciz	"CALCTL"                        @ string offset=445
 .Linfo_string33:
-	.asciz	"CALDWRD"                       @ string offset=440
+	.asciz	"CALDWRD"                       @ string offset=452
 .Linfo_string34:
-	.asciz	"RESERVE2"                      @ string offset=448
+	.asciz	"RESERVE2"                      @ string offset=460
 .Linfo_string35:
-	.asciz	"PDMACTL"                       @ string offset=457
+	.asciz	"PDMACTL"                       @ string offset=469
 .Linfo_string36:
-	.asciz	"EADC_T"                        @ string offset=465
+	.asciz	"EADC_T"                        @ string offset=477
 .Linfo_string37:
-	.asciz	"u32InputMode"                  @ string offset=472
+	.asciz	"u32InputMode"                  @ string offset=484
 .Linfo_string38:
-	.asciz	"u32Delay"                      @ string offset=485
+	.asciz	"u32Delay"                      @ string offset=497
 .Linfo_string39:
-	.asciz	"u32ModuleNum"                  @ string offset=494
+	.asciz	"u32ModuleNum"                  @ string offset=506
 .Linfo_string40:
-	.asciz	"u32TriggerSrc"                 @ string offset=507
+	.asciz	"u32TriggerSrc"                 @ string offset=519
 .Linfo_string41:
-	.asciz	"u32Channel"                    @ string offset=521
+	.asciz	"u32Channel"                    @ string offset=533
 .Linfo_string42:
-	.asciz	"u32TriggerDelayTime"           @ string offset=532
+	.asciz	"u32TriggerDelayTime"           @ string offset=544
 .Linfo_string43:
-	.asciz	"u32DelayClockDivider"          @ string offset=552
+	.asciz	"u32DelayClockDivider"          @ string offset=564
 .Linfo_string44:
-	.asciz	"u32ExtendSampleTime"           @ string offset=573
+	.asciz	"u32ExtendSampleTime"           @ string offset=585
 	.ident	"Component: Arm Compiler for Embedded 6.22 Tool: armclang [5ee92100]"
 	.section	".note.GNU-stack","",%progbits
 	.eabi_attribute	30, 1	@ Tag_ABI_optimization_goals

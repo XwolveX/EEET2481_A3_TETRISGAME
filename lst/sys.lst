@@ -23,7 +23,7 @@
 	.eabi_attribute	14, 0	@ Tag_ABI_PCS_R9_use
 	.file	"sys.c"
 	.file	1 "C:\\Users\\dinhl" "AppData\\Local\\Keil_v5\\ARM\\ARMCLANG\\bin\\..\\include\\stdint.h"
-	.file	2 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/Device/Nuvoton/M480/Include\\sys_reg.h"
+	.file	2 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/Device/Nuvoton/M480/Include\\sys_reg.h"
 	.section	.text.SYS_ClearResetSrc,"ax",%progbits
 	.hidden	SYS_ClearResetSrc               @ -- Begin function SYS_ClearResetSrc
 	.globl	SYS_ClearResetSrc
@@ -33,7 +33,7 @@
 	.thumb_func
 SYS_ClearResetSrc:
 .Lfunc_begin0:
-	.file	3 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "Library/StdDriver/src/sys.c"
+	.file	3 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "Library/StdDriver/src/sys.c"
 	.loc	3 45 0                          @ Library/StdDriver/src/sys.c:45:0
 	.fnstart
 	.cfi_sections .debug_frame
@@ -1530,181 +1530,181 @@ SYS_SetVRef:
 .Linfo_string1:
 	.asciz	"Library/StdDriver/src\\sys.c"  @ string offset=68
 .Linfo_string2:
-	.asciz	"C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" @ string offset=96
+	.asciz	"C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" @ string offset=96
 .Linfo_string3:
-	.asciz	"PDID"                          @ string offset=149
+	.asciz	"PDID"                          @ string offset=161
 .Linfo_string4:
-	.asciz	"unsigned int"                  @ string offset=154
+	.asciz	"unsigned int"                  @ string offset=166
 .Linfo_string5:
-	.asciz	"uint32_t"                      @ string offset=167
+	.asciz	"uint32_t"                      @ string offset=179
 .Linfo_string6:
-	.asciz	"RSTSTS"                        @ string offset=176
+	.asciz	"RSTSTS"                        @ string offset=188
 .Linfo_string7:
-	.asciz	"IPRST0"                        @ string offset=183
+	.asciz	"IPRST0"                        @ string offset=195
 .Linfo_string8:
-	.asciz	"IPRST1"                        @ string offset=190
+	.asciz	"IPRST1"                        @ string offset=202
 .Linfo_string9:
-	.asciz	"IPRST2"                        @ string offset=197
+	.asciz	"IPRST2"                        @ string offset=209
 .Linfo_string10:
-	.asciz	"RESERVE0"                      @ string offset=204
+	.asciz	"RESERVE0"                      @ string offset=216
 .Linfo_string11:
-	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=213
+	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=225
 .Linfo_string12:
-	.asciz	"BODCTL"                        @ string offset=233
+	.asciz	"BODCTL"                        @ string offset=245
 .Linfo_string13:
-	.asciz	"IVSCTL"                        @ string offset=240
+	.asciz	"IVSCTL"                        @ string offset=252
 .Linfo_string14:
-	.asciz	"RESERVE1"                      @ string offset=247
+	.asciz	"RESERVE1"                      @ string offset=259
 .Linfo_string15:
-	.asciz	"PORCTL"                        @ string offset=256
+	.asciz	"PORCTL"                        @ string offset=268
 .Linfo_string16:
-	.asciz	"VREFCTL"                       @ string offset=263
+	.asciz	"VREFCTL"                       @ string offset=275
 .Linfo_string17:
-	.asciz	"USBPHY"                        @ string offset=271
+	.asciz	"USBPHY"                        @ string offset=283
 .Linfo_string18:
-	.asciz	"GPA_MFPL"                      @ string offset=278
+	.asciz	"GPA_MFPL"                      @ string offset=290
 .Linfo_string19:
-	.asciz	"GPA_MFPH"                      @ string offset=287
+	.asciz	"GPA_MFPH"                      @ string offset=299
 .Linfo_string20:
-	.asciz	"GPB_MFPL"                      @ string offset=296
+	.asciz	"GPB_MFPL"                      @ string offset=308
 .Linfo_string21:
-	.asciz	"GPB_MFPH"                      @ string offset=305
+	.asciz	"GPB_MFPH"                      @ string offset=317
 .Linfo_string22:
-	.asciz	"GPC_MFPL"                      @ string offset=314
+	.asciz	"GPC_MFPL"                      @ string offset=326
 .Linfo_string23:
-	.asciz	"GPC_MFPH"                      @ string offset=323
+	.asciz	"GPC_MFPH"                      @ string offset=335
 .Linfo_string24:
-	.asciz	"GPD_MFPL"                      @ string offset=332
+	.asciz	"GPD_MFPL"                      @ string offset=344
 .Linfo_string25:
-	.asciz	"GPD_MFPH"                      @ string offset=341
+	.asciz	"GPD_MFPH"                      @ string offset=353
 .Linfo_string26:
-	.asciz	"GPE_MFPL"                      @ string offset=350
+	.asciz	"GPE_MFPL"                      @ string offset=362
 .Linfo_string27:
-	.asciz	"GPE_MFPH"                      @ string offset=359
+	.asciz	"GPE_MFPH"                      @ string offset=371
 .Linfo_string28:
-	.asciz	"GPF_MFPL"                      @ string offset=368
+	.asciz	"GPF_MFPL"                      @ string offset=380
 .Linfo_string29:
-	.asciz	"GPF_MFPH"                      @ string offset=377
+	.asciz	"GPF_MFPH"                      @ string offset=389
 .Linfo_string30:
-	.asciz	"GPG_MFPL"                      @ string offset=386
+	.asciz	"GPG_MFPL"                      @ string offset=398
 .Linfo_string31:
-	.asciz	"GPG_MFPH"                      @ string offset=395
+	.asciz	"GPG_MFPH"                      @ string offset=407
 .Linfo_string32:
-	.asciz	"GPH_MFPL"                      @ string offset=404
+	.asciz	"GPH_MFPL"                      @ string offset=416
 .Linfo_string33:
-	.asciz	"GPH_MFPH"                      @ string offset=413
+	.asciz	"GPH_MFPH"                      @ string offset=425
 .Linfo_string34:
-	.asciz	"RESERVE2"                      @ string offset=422
+	.asciz	"RESERVE2"                      @ string offset=434
 .Linfo_string35:
-	.asciz	"GPA_MFOS"                      @ string offset=431
+	.asciz	"GPA_MFOS"                      @ string offset=443
 .Linfo_string36:
-	.asciz	"GPB_MFOS"                      @ string offset=440
+	.asciz	"GPB_MFOS"                      @ string offset=452
 .Linfo_string37:
-	.asciz	"GPC_MFOS"                      @ string offset=449
+	.asciz	"GPC_MFOS"                      @ string offset=461
 .Linfo_string38:
-	.asciz	"GPD_MFOS"                      @ string offset=458
+	.asciz	"GPD_MFOS"                      @ string offset=470
 .Linfo_string39:
-	.asciz	"GPE_MFOS"                      @ string offset=467
+	.asciz	"GPE_MFOS"                      @ string offset=479
 .Linfo_string40:
-	.asciz	"GPF_MFOS"                      @ string offset=476
+	.asciz	"GPF_MFOS"                      @ string offset=488
 .Linfo_string41:
-	.asciz	"GPG_MFOS"                      @ string offset=485
+	.asciz	"GPG_MFOS"                      @ string offset=497
 .Linfo_string42:
-	.asciz	"GPH_MFOS"                      @ string offset=494
+	.asciz	"GPH_MFOS"                      @ string offset=506
 .Linfo_string43:
-	.asciz	"RESERVE3"                      @ string offset=503
+	.asciz	"RESERVE3"                      @ string offset=515
 .Linfo_string44:
-	.asciz	"SRAM_INTCTL"                   @ string offset=512
+	.asciz	"SRAM_INTCTL"                   @ string offset=524
 .Linfo_string45:
-	.asciz	"SRAM_STATUS"                   @ string offset=524
+	.asciz	"SRAM_STATUS"                   @ string offset=536
 .Linfo_string46:
-	.asciz	"SRAM_ERRADDR"                  @ string offset=536
+	.asciz	"SRAM_ERRADDR"                  @ string offset=548
 .Linfo_string47:
-	.asciz	"RESERVE4"                      @ string offset=549
+	.asciz	"RESERVE4"                      @ string offset=561
 .Linfo_string48:
-	.asciz	"SRAM_BISTCTL"                  @ string offset=558
+	.asciz	"SRAM_BISTCTL"                  @ string offset=570
 .Linfo_string49:
-	.asciz	"SRAM_BISTSTS"                  @ string offset=571
+	.asciz	"SRAM_BISTSTS"                  @ string offset=583
 .Linfo_string50:
-	.asciz	"RESERVE5"                      @ string offset=584
+	.asciz	"RESERVE5"                      @ string offset=596
 .Linfo_string51:
-	.asciz	"HIRCTCTL"                      @ string offset=593
+	.asciz	"HIRCTCTL"                      @ string offset=605
 .Linfo_string52:
-	.asciz	"HIRCTIEN"                      @ string offset=602
+	.asciz	"HIRCTIEN"                      @ string offset=614
 .Linfo_string53:
-	.asciz	"HIRCTISTS"                     @ string offset=611
+	.asciz	"HIRCTISTS"                     @ string offset=623
 .Linfo_string54:
-	.asciz	"IRCTCTL"                       @ string offset=621
+	.asciz	"IRCTCTL"                       @ string offset=633
 .Linfo_string55:
-	.asciz	"IRCTIEN"                       @ string offset=629
+	.asciz	"IRCTIEN"                       @ string offset=641
 .Linfo_string56:
-	.asciz	"IRCTISTS"                      @ string offset=637
+	.asciz	"IRCTISTS"                      @ string offset=649
 .Linfo_string57:
-	.asciz	"RESERVE6"                      @ string offset=646
+	.asciz	"RESERVE6"                      @ string offset=658
 .Linfo_string58:
-	.asciz	"REGLCTL"                       @ string offset=655
+	.asciz	"REGLCTL"                       @ string offset=667
 .Linfo_string59:
-	.asciz	"RESERVE7"                      @ string offset=663
+	.asciz	"RESERVE7"                      @ string offset=675
 .Linfo_string60:
-	.asciz	"PORDISAN"                      @ string offset=672
+	.asciz	"PORDISAN"                      @ string offset=684
 .Linfo_string61:
-	.asciz	"RESERVE8"                      @ string offset=681
+	.asciz	"RESERVE8"                      @ string offset=693
 .Linfo_string62:
-	.asciz	"CSERVER"                       @ string offset=690
+	.asciz	"CSERVER"                       @ string offset=702
 .Linfo_string63:
-	.asciz	"PLCTL"                         @ string offset=698
+	.asciz	"PLCTL"                         @ string offset=710
 .Linfo_string64:
-	.asciz	"PLSTS"                         @ string offset=704
+	.asciz	"PLSTS"                         @ string offset=716
 .Linfo_string65:
-	.asciz	"RESERVE9"                      @ string offset=710
+	.asciz	"RESERVE9"                      @ string offset=722
 .Linfo_string66:
-	.asciz	"AHBMCTL"                       @ string offset=719
+	.asciz	"AHBMCTL"                       @ string offset=731
 .Linfo_string67:
-	.asciz	"SYS_T"                         @ string offset=727
+	.asciz	"SYS_T"                         @ string offset=739
 .Linfo_string68:
-	.asciz	"SYS_ClearResetSrc"             @ string offset=733
+	.asciz	"SYS_ClearResetSrc"             @ string offset=745
 .Linfo_string69:
-	.asciz	"SYS_GetBODStatus"              @ string offset=751
+	.asciz	"SYS_GetBODStatus"              @ string offset=763
 .Linfo_string70:
-	.asciz	"SYS_GetResetSrc"               @ string offset=768
+	.asciz	"SYS_GetResetSrc"               @ string offset=780
 .Linfo_string71:
-	.asciz	"SYS_IsRegLocked"               @ string offset=784
+	.asciz	"SYS_IsRegLocked"               @ string offset=796
 .Linfo_string72:
-	.asciz	"SYS_ReadPDID"                  @ string offset=800
+	.asciz	"SYS_ReadPDID"                  @ string offset=812
 .Linfo_string73:
-	.asciz	"SYS_ResetChip"                 @ string offset=813
+	.asciz	"SYS_ResetChip"                 @ string offset=825
 .Linfo_string74:
-	.asciz	"SYS_ResetCPU"                  @ string offset=827
+	.asciz	"SYS_ResetCPU"                  @ string offset=839
 .Linfo_string75:
-	.asciz	"SYS_ResetModule"               @ string offset=840
+	.asciz	"SYS_ResetModule"               @ string offset=852
 .Linfo_string76:
-	.asciz	"SYS_EnableBOD"                 @ string offset=856
+	.asciz	"SYS_EnableBOD"                 @ string offset=868
 .Linfo_string77:
-	.asciz	"SYS_DisableBOD"                @ string offset=870
+	.asciz	"SYS_DisableBOD"                @ string offset=882
 .Linfo_string78:
-	.asciz	"SYS_SetPowerLevel"             @ string offset=885
+	.asciz	"SYS_SetPowerLevel"             @ string offset=897
 .Linfo_string79:
-	.asciz	"SYS_SetVRef"                   @ string offset=903
+	.asciz	"SYS_SetVRef"                   @ string offset=915
 .Linfo_string80:
-	.asciz	"u32Src"                        @ string offset=915
+	.asciz	"u32Src"                        @ string offset=927
 .Linfo_string81:
-	.asciz	"u32ModuleIndex"                @ string offset=922
+	.asciz	"u32ModuleIndex"                @ string offset=934
 .Linfo_string82:
-	.asciz	"u32tmpVal"                     @ string offset=937
+	.asciz	"u32tmpVal"                     @ string offset=949
 .Linfo_string83:
-	.asciz	"u32tmpAddr"                    @ string offset=947
+	.asciz	"u32tmpAddr"                    @ string offset=959
 .Linfo_string84:
-	.asciz	"i32Mode"                       @ string offset=958
+	.asciz	"i32Mode"                       @ string offset=970
 .Linfo_string85:
-	.asciz	"int"                           @ string offset=966
+	.asciz	"int"                           @ string offset=978
 .Linfo_string86:
-	.asciz	"int32_t"                       @ string offset=970
+	.asciz	"int32_t"                       @ string offset=982
 .Linfo_string87:
-	.asciz	"u32BODLevel"                   @ string offset=978
+	.asciz	"u32BODLevel"                   @ string offset=990
 .Linfo_string88:
-	.asciz	"u32PowerLevel"                 @ string offset=990
+	.asciz	"u32PowerLevel"                 @ string offset=1002
 .Linfo_string89:
-	.asciz	"u32VRefCTL"                    @ string offset=1004
+	.asciz	"u32VRefCTL"                    @ string offset=1016
 	.ident	"Component: Arm Compiler for Embedded 6.22 Tool: armclang [5ee92100]"
 	.section	".note.GNU-stack","",%progbits
 	.eabi_attribute	30, 1	@ Tag_ABI_optimization_goals

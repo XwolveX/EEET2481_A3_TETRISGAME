@@ -530,31 +530,6 @@
               <FilePath>.\Application\Source\APPW_MainTask.c</FilePath>
             </File>
             <File>
-              <FileName>Application.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Application\Source\CustomCode\Application.c</FilePath>
-            </File>
-            <File>
-              <FileName>ID_GAME_OVER_Slots.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Application\Source\CustomCode\ID_GAME_OVER_Slots.c</FilePath>
-            </File>
-            <File>
-              <FileName>ID_SCREEN_HIGH_SCORE_Slots.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_HIGH_SCORE_Slots.c</FilePath>
-            </File>
-            <File>
-              <FileName>ID_SCREEN_PLAY_Slots.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_PLAY_Slots.c</FilePath>
-            </File>
-            <File>
-              <FileName>ID_SCREEN_WELCOME_Slots.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_WELCOME_Slots.c</FilePath>
-            </File>
-            <File>
               <FileName>APPWConf.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Application\Source\Generated\APPWConf.c</FilePath>
@@ -583,6 +558,31 @@
               <FileName>Resource.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Application\Source\Generated\Resource.c</FilePath>
+            </File>
+            <File>
+              <FileName>Application.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\Source\CustomCode\Application.c</FilePath>
+            </File>
+            <File>
+              <FileName>ID_GAME_OVER_Slots.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\Source\CustomCode\ID_GAME_OVER_Slots.c</FilePath>
+            </File>
+            <File>
+              <FileName>ID_SCREEN_HIGH_SCORE_Slots.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_HIGH_SCORE_Slots.c</FilePath>
+            </File>
+            <File>
+              <FileName>ID_SCREEN_PLAY_Slots.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_PLAY_Slots.c</FilePath>
+            </File>
+            <File>
+              <FileName>ID_SCREEN_WELCOME_Slots.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_WELCOME_Slots.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -1142,31 +1142,6 @@
               <FilePath>.\Application\Source\APPW_MainTask.c</FilePath>
             </File>
             <File>
-              <FileName>Application.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Application\Source\CustomCode\Application.c</FilePath>
-            </File>
-            <File>
-              <FileName>ID_GAME_OVER_Slots.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Application\Source\CustomCode\ID_GAME_OVER_Slots.c</FilePath>
-            </File>
-            <File>
-              <FileName>ID_SCREEN_HIGH_SCORE_Slots.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_HIGH_SCORE_Slots.c</FilePath>
-            </File>
-            <File>
-              <FileName>ID_SCREEN_PLAY_Slots.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_PLAY_Slots.c</FilePath>
-            </File>
-            <File>
-              <FileName>ID_SCREEN_WELCOME_Slots.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_WELCOME_Slots.c</FilePath>
-            </File>
-            <File>
               <FileName>APPWConf.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Application\Source\Generated\APPWConf.c</FilePath>
@@ -1195,6 +1170,31 @@
               <FileName>Resource.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Application\Source\Generated\Resource.c</FilePath>
+            </File>
+            <File>
+              <FileName>Application.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\Source\CustomCode\Application.c</FilePath>
+            </File>
+            <File>
+              <FileName>ID_GAME_OVER_Slots.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\Source\CustomCode\ID_GAME_OVER_Slots.c</FilePath>
+            </File>
+            <File>
+              <FileName>ID_SCREEN_HIGH_SCORE_Slots.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_HIGH_SCORE_Slots.c</FilePath>
+            </File>
+            <File>
+              <FileName>ID_SCREEN_PLAY_Slots.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_PLAY_Slots.c</FilePath>
+            </File>
+            <File>
+              <FileName>ID_SCREEN_WELCOME_Slots.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\Source\CustomCode\ID_SCREEN_WELCOME_Slots.c</FilePath>
             </File>
           </Files>
         </Group>

@@ -22,11 +22,11 @@
 	.eabi_attribute	26, 1	@ Tag_ABI_enum_size
 	.eabi_attribute	14, 0	@ Tag_ABI_PCS_R9_use
 	.file	"Resource.c"
-	.file	1 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/emWin/Include\\GUI_Type.h"
-	.file	2 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/emWin/Include\\AppWizard.h"
-	.file	3 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "Application/Source/Generated/Resource.c"
-	.file	4 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/emWin/Include\\WM.h"
-	.file	5 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/emWin/Include\\LCD.h"
+	.file	1 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/emWin/Include\\GUI_Type.h"
+	.file	2 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/emWin/Include\\AppWizard.h"
+	.file	3 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "Application/Source/Generated/Resource.c"
+	.file	4 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/emWin/Include\\WM.h"
+	.file	5 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/emWin/Include\\LCD.h"
 	.section	.text.APPW__GetTextInit,"ax",%progbits
 	.hidden	APPW__GetTextInit               @ -- Begin function APPW__GetTextInit
 	.globl	APPW__GetTextInit
@@ -2404,361 +2404,361 @@ _aCalc_ID_VAR_02:
 .Linfo_string1:
 	.asciz	"Application/Source/Generated\\Resource.c" @ string offset=68
 .Linfo_string2:
-	.asciz	"C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" @ string offset=108
+	.asciz	"C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" @ string offset=108
 .Linfo_string3:
-	.asciz	"APPW__aFont"                   @ string offset=161
+	.asciz	"APPW__aFont"                   @ string offset=173
 .Linfo_string4:
-	.asciz	"Font"                          @ string offset=173
+	.asciz	"Font"                          @ string offset=185
 .Linfo_string5:
-	.asciz	"pfDispChar"                    @ string offset=178
+	.asciz	"pfDispChar"                    @ string offset=190
 .Linfo_string6:
-	.asciz	"unsigned short"                @ string offset=189
+	.asciz	"unsigned short"                @ string offset=201
 .Linfo_string7:
-	.asciz	"GUI_DISPCHAR"                  @ string offset=204
+	.asciz	"GUI_DISPCHAR"                  @ string offset=216
 .Linfo_string8:
-	.asciz	"pfGetCharDistX"                @ string offset=217
+	.asciz	"pfGetCharDistX"                @ string offset=229
 .Linfo_string9:
-	.asciz	"int"                           @ string offset=232
+	.asciz	"int"                           @ string offset=244
 .Linfo_string10:
-	.asciz	"GUI_GETCHARDISTX"              @ string offset=236
+	.asciz	"GUI_GETCHARDISTX"              @ string offset=248
 .Linfo_string11:
-	.asciz	"pfGetFontInfo"                 @ string offset=253
+	.asciz	"pfGetFontInfo"                 @ string offset=265
 .Linfo_string12:
-	.asciz	"Flags"                         @ string offset=267
+	.asciz	"Flags"                         @ string offset=279
 .Linfo_string13:
-	.asciz	"Baseline"                      @ string offset=273
+	.asciz	"Baseline"                      @ string offset=285
 .Linfo_string14:
-	.asciz	"unsigned long"                 @ string offset=282
+	.asciz	"unsigned long"                 @ string offset=294
 .Linfo_string15:
-	.asciz	"LHeight"                       @ string offset=296
+	.asciz	"LHeight"                       @ string offset=308
 .Linfo_string16:
-	.asciz	"CHeight"                       @ string offset=304
+	.asciz	"CHeight"                       @ string offset=316
 .Linfo_string17:
-	.asciz	"GUI_FONTINFO"                  @ string offset=312
+	.asciz	"GUI_FONTINFO"                  @ string offset=324
 .Linfo_string18:
-	.asciz	"GUI_GETFONTINFO"               @ string offset=325
+	.asciz	"GUI_GETFONTINFO"               @ string offset=337
 .Linfo_string19:
-	.asciz	"pfIsInFont"                    @ string offset=341
+	.asciz	"pfIsInFont"                    @ string offset=353
 .Linfo_string20:
-	.asciz	"char"                          @ string offset=352
+	.asciz	"char"                          @ string offset=364
 .Linfo_string21:
-	.asciz	"GUI_ISINFONT"                  @ string offset=357
+	.asciz	"GUI_ISINFONT"                  @ string offset=369
 .Linfo_string22:
-	.asciz	"pfGetCharInfo"                 @ string offset=370
+	.asciz	"pfGetCharInfo"                 @ string offset=382
 .Linfo_string23:
-	.asciz	"XSize"                         @ string offset=384
+	.asciz	"XSize"                         @ string offset=396
 .Linfo_string24:
-	.asciz	"YSize"                         @ string offset=390
+	.asciz	"YSize"                         @ string offset=402
 .Linfo_string25:
-	.asciz	"XPos"                          @ string offset=396
+	.asciz	"XPos"                          @ string offset=408
 .Linfo_string26:
-	.asciz	"long"                          @ string offset=401
+	.asciz	"long"                          @ string offset=413
 .Linfo_string27:
-	.asciz	"YPos"                          @ string offset=406
+	.asciz	"YPos"                          @ string offset=418
 .Linfo_string28:
-	.asciz	"XDist"                         @ string offset=411
+	.asciz	"XDist"                         @ string offset=423
 .Linfo_string29:
-	.asciz	"pData"                         @ string offset=417
+	.asciz	"pData"                         @ string offset=429
 .Linfo_string30:
-	.asciz	"unsigned char"                 @ string offset=423
+	.asciz	"unsigned char"                 @ string offset=435
 .Linfo_string31:
-	.asciz	"GUI_CHARINFO_EXT"              @ string offset=437
+	.asciz	"GUI_CHARINFO_EXT"              @ string offset=449
 .Linfo_string32:
-	.asciz	"GUI_GETCHARINFO"               @ string offset=454
+	.asciz	"GUI_GETCHARINFO"               @ string offset=466
 .Linfo_string33:
-	.asciz	"pafEncode"                     @ string offset=470
+	.asciz	"pafEncode"                     @ string offset=482
 .Linfo_string34:
-	.asciz	"pfGetLineDistX"                @ string offset=480
+	.asciz	"pfGetLineDistX"                @ string offset=492
 .Linfo_string35:
-	.asciz	"tGUI_GetLineDistX"             @ string offset=495
+	.asciz	"tGUI_GetLineDistX"             @ string offset=507
 .Linfo_string36:
-	.asciz	"pfGetLineLen"                  @ string offset=513
+	.asciz	"pfGetLineLen"                  @ string offset=525
 .Linfo_string37:
-	.asciz	"tGUI_GetLineLen"               @ string offset=526
+	.asciz	"tGUI_GetLineLen"               @ string offset=538
 .Linfo_string38:
-	.asciz	"pfDispLine"                    @ string offset=542
+	.asciz	"pfDispLine"                    @ string offset=554
 .Linfo_string39:
-	.asciz	"tGL_DispLine"                  @ string offset=553
+	.asciz	"tGL_DispLine"                  @ string offset=565
 .Linfo_string40:
-	.asciz	"tGUI_ENC_APIList"              @ string offset=566
+	.asciz	"tGUI_ENC_APIList"              @ string offset=578
 .Linfo_string41:
-	.asciz	"YDist"                         @ string offset=583
+	.asciz	"YDist"                         @ string offset=595
 .Linfo_string42:
-	.asciz	"XMag"                          @ string offset=589
+	.asciz	"XMag"                          @ string offset=601
 .Linfo_string43:
-	.asciz	"YMag"                          @ string offset=594
+	.asciz	"YMag"                          @ string offset=606
 .Linfo_string44:
-	.asciz	"p"                             @ string offset=599
+	.asciz	"p"                             @ string offset=611
 .Linfo_string45:
-	.asciz	"pFontData"                     @ string offset=601
+	.asciz	"pFontData"                     @ string offset=613
 .Linfo_string46:
-	.asciz	"pMono"                         @ string offset=611
+	.asciz	"pMono"                         @ string offset=623
 .Linfo_string47:
-	.asciz	"pTransData"                    @ string offset=617
+	.asciz	"pTransData"                    @ string offset=629
 .Linfo_string48:
-	.asciz	"pTrans"                        @ string offset=628
+	.asciz	"pTrans"                        @ string offset=640
 .Linfo_string49:
-	.asciz	"FirstChar"                     @ string offset=635
+	.asciz	"FirstChar"                     @ string offset=647
 .Linfo_string50:
-	.asciz	"LastChar"                      @ string offset=645
+	.asciz	"LastChar"                      @ string offset=657
 .Linfo_string51:
-	.asciz	"pList"                         @ string offset=654
+	.asciz	"pList"                         @ string offset=666
 .Linfo_string52:
-	.asciz	"c0"                            @ string offset=660
+	.asciz	"c0"                            @ string offset=672
 .Linfo_string53:
-	.asciz	"short"                         @ string offset=663
+	.asciz	"short"                         @ string offset=675
 .Linfo_string54:
-	.asciz	"c1"                            @ string offset=669
+	.asciz	"c1"                            @ string offset=681
 .Linfo_string55:
-	.asciz	"GUI_FONT_TRANSLIST"            @ string offset=672
+	.asciz	"GUI_FONT_TRANSLIST"            @ string offset=684
 .Linfo_string56:
-	.asciz	"GUI_FONT_TRANSINFO"            @ string offset=691
+	.asciz	"GUI_FONT_TRANSINFO"            @ string offset=703
 .Linfo_string57:
-	.asciz	"BytesPerLine"                  @ string offset=710
+	.asciz	"BytesPerLine"                  @ string offset=722
 .Linfo_string58:
-	.asciz	"GUI_FONT_MONO"                 @ string offset=723
+	.asciz	"GUI_FONT_MONO"                 @ string offset=735
 .Linfo_string59:
-	.asciz	"pProp"                         @ string offset=737
+	.asciz	"pProp"                         @ string offset=749
 .Linfo_string60:
-	.asciz	"First"                         @ string offset=743
+	.asciz	"First"                         @ string offset=755
 .Linfo_string61:
-	.asciz	"Last"                          @ string offset=749
+	.asciz	"Last"                          @ string offset=761
 .Linfo_string62:
-	.asciz	"paCharInfo"                    @ string offset=754
+	.asciz	"paCharInfo"                    @ string offset=766
 .Linfo_string63:
-	.asciz	"GUI_CHARINFO"                  @ string offset=765
+	.asciz	"GUI_CHARINFO"                  @ string offset=777
 .Linfo_string64:
-	.asciz	"pNext"                         @ string offset=778
+	.asciz	"pNext"                         @ string offset=790
 .Linfo_string65:
-	.asciz	"GUI_FONT_PROP"                 @ string offset=784
+	.asciz	"GUI_FONT_PROP"                 @ string offset=796
 .Linfo_string66:
-	.asciz	"pPropExt"                      @ string offset=798
+	.asciz	"pPropExt"                      @ string offset=810
 .Linfo_string67:
-	.asciz	"GUI_FONT_PROP_EXT"             @ string offset=807
+	.asciz	"GUI_FONT_PROP_EXT"             @ string offset=819
 .Linfo_string68:
-	.asciz	"GUI_FONT"                      @ string offset=825
+	.asciz	"GUI_FONT"                      @ string offset=837
 .Linfo_string69:
-	.asciz	"FontData"                      @ string offset=834
+	.asciz	"FontData"                      @ string offset=846
 .Linfo_string70:
-	.asciz	"pVoid"                         @ string offset=843
+	.asciz	"pVoid"                         @ string offset=855
 .Linfo_string71:
-	.asciz	"pfGetData"                     @ string offset=849
+	.asciz	"pfGetData"                     @ string offset=861
 .Linfo_string72:
-	.asciz	"GUI_XBF_GET_DATA_FUNC"         @ string offset=859
+	.asciz	"GUI_XBF_GET_DATA_FUNC"         @ string offset=871
 .Linfo_string73:
-	.asciz	"GUI_XBF_DATA"                  @ string offset=881
+	.asciz	"GUI_XBF_DATA"                  @ string offset=893
 .Linfo_string74:
-	.asciz	"APPW_FONT"                     @ string offset=894
+	.asciz	"APPW_FONT"                     @ string offset=906
 .Linfo_string75:
-	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=904
+	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=916
 .Linfo_string76:
-	.asciz	"_TextInit"                     @ string offset=924
+	.asciz	"_TextInit"                     @ string offset=936
 .Linfo_string77:
-	.asciz	"appData"                       @ string offset=934
+	.asciz	"appData"                       @ string offset=946
 .Linfo_string78:
-	.asciz	"NumItems"                      @ string offset=942
+	.asciz	"NumItems"                      @ string offset=954
 .Linfo_string79:
-	.asciz	"APPW_TEXT_INIT"                @ string offset=951
+	.asciz	"APPW_TEXT_INIT"                @ string offset=963
 .Linfo_string80:
-	.asciz	"_apLang"                       @ string offset=966
+	.asciz	"_apLang"                       @ string offset=978
 .Linfo_string81:
-	.asciz	"_apRootList"                   @ string offset=974
+	.asciz	"_apRootList"                   @ string offset=986
 .Linfo_string82:
-	.asciz	"RootId"                        @ string offset=986
+	.asciz	"RootId"                        @ string offset=998
 .Linfo_string83:
-	.asciz	"pCreateInfo"                   @ string offset=993
+	.asciz	"pCreateInfo"                   @ string offset=1005
 .Linfo_string84:
-	.asciz	"pfCreate"                      @ string offset=1005
+	.asciz	"pfCreate"                      @ string offset=1017
 .Linfo_string85:
-	.asciz	"GUI_HWIN"                      @ string offset=1014
+	.asciz	"GUI_HWIN"                      @ string offset=1026
 .Linfo_string86:
-	.asciz	"aDisposeCoord"                 @ string offset=1023
+	.asciz	"aDisposeCoord"                 @ string offset=1035
 .Linfo_string87:
-	.asciz	"Mode"                          @ string offset=1037
+	.asciz	"Mode"                          @ string offset=1049
 .Linfo_string88:
-	.asciz	"Off"                           @ string offset=1042
+	.asciz	"Off"                           @ string offset=1054
 .Linfo_string89:
-	.asciz	"Id"                            @ string offset=1046
+	.asciz	"Id"                            @ string offset=1058
 .Linfo_string90:
-	.asciz	"Valid"                         @ string offset=1049
+	.asciz	"Valid"                         @ string offset=1061
 .Linfo_string91:
-	.asciz	"APPW_DISPOSE_COORD"            @ string offset=1055
+	.asciz	"APPW_DISPOSE_COORD"            @ string offset=1067
 .Linfo_string92:
-	.asciz	"xSize"                         @ string offset=1074
+	.asciz	"xSize"                         @ string offset=1086
 .Linfo_string93:
-	.asciz	"ySize"                         @ string offset=1080
+	.asciz	"ySize"                         @ string offset=1092
 .Linfo_string94:
-	.asciz	"xSizeMin"                      @ string offset=1086
+	.asciz	"xSizeMin"                      @ string offset=1098
 .Linfo_string95:
-	.asciz	"ySizeMin"                      @ string offset=1095
+	.asciz	"ySizeMin"                      @ string offset=1107
 .Linfo_string96:
-	.asciz	"State"                         @ string offset=1104
+	.asciz	"State"                         @ string offset=1116
 .Linfo_string97:
-	.asciz	"APPW_DISPOSE"                  @ string offset=1110
+	.asciz	"APPW_DISPOSE"                  @ string offset=1122
 .Linfo_string98:
-	.asciz	"IdParent"                      @ string offset=1123
+	.asciz	"IdParent"                      @ string offset=1135
 .Linfo_string99:
-	.asciz	"Dispose"                       @ string offset=1132
+	.asciz	"Dispose"                       @ string offset=1144
 .Linfo_string100:
-	.asciz	"aIdDraw"                       @ string offset=1140
+	.asciz	"aIdDraw"                       @ string offset=1152
 .Linfo_string101:
-	.asciz	"APPW_CREATE_ITEM"              @ string offset=1148
+	.asciz	"APPW_CREATE_ITEM"              @ string offset=1160
 .Linfo_string102:
-	.asciz	"NumCreateInfo"                 @ string offset=1165
+	.asciz	"NumCreateInfo"                 @ string offset=1177
 .Linfo_string103:
-	.asciz	"unsigned int"                  @ string offset=1179
+	.asciz	"unsigned int"                  @ string offset=1191
 .Linfo_string104:
-	.asciz	"pSetupInfo"                    @ string offset=1192
+	.asciz	"pSetupInfo"                    @ string offset=1204
 .Linfo_string105:
-	.asciz	"Command"                       @ string offset=1203
+	.asciz	"Command"                       @ string offset=1215
 .Linfo_string106:
-	.asciz	"aPara"                         @ string offset=1211
+	.asciz	"aPara"                         @ string offset=1223
 .Linfo_string107:
-	.asciz	"v"                             @ string offset=1217
+	.asciz	"v"                             @ string offset=1229
 .Linfo_string108:
-	.asciz	"pFunc"                         @ string offset=1219
+	.asciz	"pFunc"                         @ string offset=1231
 .Linfo_string109:
-	.asciz	"APPW_PARA_ITEM"                @ string offset=1225
+	.asciz	"APPW_PARA_ITEM"                @ string offset=1237
 .Linfo_string110:
-	.asciz	"APPW_SETUP_ITEM"               @ string offset=1240
+	.asciz	"APPW_SETUP_ITEM"               @ string offset=1252
 .Linfo_string111:
-	.asciz	"NumSetupInfo"                  @ string offset=1256
+	.asciz	"NumSetupInfo"                  @ string offset=1268
 .Linfo_string112:
-	.asciz	"pActionInfo"                   @ string offset=1269
+	.asciz	"pActionInfo"                   @ string offset=1281
 .Linfo_string113:
-	.asciz	"IdSrc"                         @ string offset=1281
+	.asciz	"IdSrc"                         @ string offset=1293
 .Linfo_string114:
-	.asciz	"NCode"                         @ string offset=1287
+	.asciz	"NCode"                         @ string offset=1299
 .Linfo_string115:
-	.asciz	"IdDst"                         @ string offset=1293
+	.asciz	"IdDst"                         @ string offset=1305
 .Linfo_string116:
-	.asciz	"IdJob"                         @ string offset=1299
+	.asciz	"IdJob"                         @ string offset=1311
 .Linfo_string117:
-	.asciz	"pfSlot"                        @ string offset=1305
+	.asciz	"pfSlot"                        @ string offset=1317
 .Linfo_string118:
-	.asciz	"MsgId"                         @ string offset=1312
+	.asciz	"MsgId"                         @ string offset=1324
 .Linfo_string119:
-	.asciz	"hWin"                          @ string offset=1318
+	.asciz	"hWin"                          @ string offset=1330
 .Linfo_string120:
-	.asciz	"hWinSrc"                       @ string offset=1323
+	.asciz	"hWinSrc"                       @ string offset=1335
 .Linfo_string121:
-	.asciz	"Data"                          @ string offset=1331
+	.asciz	"Data"                          @ string offset=1343
 .Linfo_string122:
-	.asciz	"u"                             @ string offset=1336
+	.asciz	"u"                             @ string offset=1348
 .Linfo_string123:
-	.asciz	"Color"                         @ string offset=1338
+	.asciz	"Color"                         @ string offset=1350
 .Linfo_string124:
-	.asciz	"LCD_COLOR"                     @ string offset=1344
+	.asciz	"LCD_COLOR"                     @ string offset=1356
 .Linfo_string125:
-	.asciz	"GUI_COLOR"                     @ string offset=1354
+	.asciz	"GUI_COLOR"                     @ string offset=1366
 .Linfo_string126:
-	.asciz	"WM_MESSAGE"                    @ string offset=1364
+	.asciz	"WM_MESSAGE"                    @ string offset=1376
 .Linfo_string127:
-	.asciz	"pCond"                         @ string offset=1375
+	.asciz	"pCond"                         @ string offset=1387
 .Linfo_string128:
-	.asciz	"pTerm"                         @ string offset=1381
+	.asciz	"pTerm"                         @ string offset=1393
 .Linfo_string129:
-	.asciz	"pComp"                         @ string offset=1387
+	.asciz	"pComp"                         @ string offset=1399
 .Linfo_string130:
-	.asciz	"aAtom"                         @ string offset=1393
+	.asciz	"aAtom"                         @ string offset=1405
 .Linfo_string131:
-	.asciz	"Value"                         @ string offset=1399
+	.asciz	"Value"                         @ string offset=1411
 .Linfo_string132:
-	.asciz	"Offset"                        @ string offset=1405
+	.asciz	"Offset"                        @ string offset=1417
 .Linfo_string133:
-	.asciz	"Item"                          @ string offset=1412
+	.asciz	"Item"                          @ string offset=1424
 .Linfo_string134:
-	.asciz	"Detail"                        @ string offset=1417
+	.asciz	"Detail"                        @ string offset=1429
 .Linfo_string135:
-	.asciz	"APPW_ATOM"                     @ string offset=1424
+	.asciz	"APPW_ATOM"                     @ string offset=1436
 .Linfo_string136:
-	.asciz	"APPW_COND_COMP"                @ string offset=1434
+	.asciz	"APPW_COND_COMP"                @ string offset=1446
 .Linfo_string137:
-	.asciz	"nComp"                         @ string offset=1449
+	.asciz	"nComp"                         @ string offset=1461
 .Linfo_string138:
-	.asciz	"APPW_COND"                     @ string offset=1455
+	.asciz	"APPW_COND"                     @ string offset=1467
 .Linfo_string139:
-	.asciz	"APPW_ACTION_ITEM"              @ string offset=1465
+	.asciz	"APPW_ACTION_ITEM"              @ string offset=1477
 .Linfo_string140:
-	.asciz	"NumActionInfo"                 @ string offset=1482
+	.asciz	"NumActionInfo"                 @ string offset=1494
 .Linfo_string141:
-	.asciz	"cb"                            @ string offset=1496
+	.asciz	"cb"                            @ string offset=1508
 .Linfo_string142:
-	.asciz	"WM_CALLBACK"                   @ string offset=1499
+	.asciz	"WM_CALLBACK"                   @ string offset=1511
 .Linfo_string143:
-	.asciz	"APPW_ROOT_INFO"                @ string offset=1511
+	.asciz	"APPW_ROOT_INFO"                @ string offset=1523
 .Linfo_string144:
-	.asciz	"_aVarList"                     @ string offset=1526
+	.asciz	"_aVarList"                     @ string offset=1538
 .Linfo_string145:
-	.asciz	"IsDirty"                       @ string offset=1536
+	.asciz	"IsDirty"                       @ string offset=1548
 .Linfo_string146:
-	.asciz	"pCalc"                         @ string offset=1544
+	.asciz	"pCalc"                         @ string offset=1556
 .Linfo_string147:
-	.asciz	"nItem"                         @ string offset=1550
+	.asciz	"nItem"                         @ string offset=1562
 .Linfo_string148:
-	.asciz	"pAtom"                         @ string offset=1556
+	.asciz	"pAtom"                         @ string offset=1568
 .Linfo_string149:
-	.asciz	"pVal"                          @ string offset=1562
+	.asciz	"pVal"                          @ string offset=1574
 .Linfo_string150:
-	.asciz	"APPW_CALC"                     @ string offset=1567
+	.asciz	"APPW_CALC"                     @ string offset=1579
 .Linfo_string151:
-	.asciz	"APPW_VAR_OBJECT"               @ string offset=1577
+	.asciz	"APPW_VAR_OBJECT"               @ string offset=1589
 .Linfo_string152:
-	.asciz	"_Calc_ID_VAR_01"               @ string offset=1593
+	.asciz	"_Calc_ID_VAR_01"               @ string offset=1605
 .Linfo_string153:
-	.asciz	"_aItem_ID_VAR_01"              @ string offset=1609
+	.asciz	"_aItem_ID_VAR_01"              @ string offset=1621
 .Linfo_string154:
-	.asciz	"_aCalc_ID_VAR_01"              @ string offset=1626
+	.asciz	"_aCalc_ID_VAR_01"              @ string offset=1638
 .Linfo_string155:
-	.asciz	"_Calc_ID_VAR_02"               @ string offset=1643
+	.asciz	"_Calc_ID_VAR_02"               @ string offset=1655
 .Linfo_string156:
-	.asciz	"_aItem_ID_VAR_02"              @ string offset=1659
+	.asciz	"_aItem_ID_VAR_02"              @ string offset=1671
 .Linfo_string157:
-	.asciz	"_aCalc_ID_VAR_02"              @ string offset=1676
+	.asciz	"_aCalc_ID_VAR_02"              @ string offset=1688
 .Linfo_string158:
-	.asciz	"_NumScreens"                   @ string offset=1693
+	.asciz	"_NumScreens"                   @ string offset=1705
 .Linfo_string159:
-	.asciz	"_NumVars"                      @ string offset=1705
+	.asciz	"_NumVars"                      @ string offset=1717
 .Linfo_string160:
-	.asciz	"IndexFunc"                     @ string offset=1714
+	.asciz	"IndexFunc"                     @ string offset=1726
 .Linfo_string161:
-	.asciz	"pNextItem"                     @ string offset=1724
+	.asciz	"pNextItem"                     @ string offset=1736
 .Linfo_string162:
-	.asciz	"APPW_DRAWING_ITEM"             @ string offset=1734
+	.asciz	"APPW_DRAWING_ITEM"             @ string offset=1746
 .Linfo_string163:
-	.asciz	"APPW__GetTextInit"             @ string offset=1752
+	.asciz	"APPW__GetTextInit"             @ string offset=1764
 .Linfo_string164:
-	.asciz	"APPW__GetResource"             @ string offset=1770
+	.asciz	"APPW__GetResource"             @ string offset=1782
 .Linfo_string165:
-	.asciz	"ppTextInit"                    @ string offset=1788
+	.asciz	"ppTextInit"                    @ string offset=1800
 .Linfo_string166:
-	.asciz	"pppRootInfo"                   @ string offset=1799
+	.asciz	"pppRootInfo"                   @ string offset=1811
 .Linfo_string167:
-	.asciz	"pNumScreens"                   @ string offset=1811
+	.asciz	"pNumScreens"                   @ string offset=1823
 .Linfo_string168:
-	.asciz	"ppaVarList"                    @ string offset=1823
+	.asciz	"ppaVarList"                    @ string offset=1835
 .Linfo_string169:
-	.asciz	"pNumVars"                      @ string offset=1834
+	.asciz	"pNumVars"                      @ string offset=1846
 .Linfo_string170:
-	.asciz	"ppaScrollerDef"                @ string offset=1843
+	.asciz	"ppaScrollerDef"                @ string offset=1855
 .Linfo_string171:
-	.asciz	"aColor"                        @ string offset=1858
+	.asciz	"aColor"                        @ string offset=1870
 .Linfo_string172:
-	.asciz	"aPeriod"                       @ string offset=1865
+	.asciz	"aPeriod"                       @ string offset=1877
 .Linfo_string173:
-	.asciz	"aMisc"                         @ string offset=1873
+	.asciz	"aMisc"                         @ string offset=1885
 .Linfo_string174:
-	.asciz	"Interactive"                   @ string offset=1879
+	.asciz	"Interactive"                   @ string offset=1891
 .Linfo_string175:
-	.asciz	"APPW_SCROLLER_DEF"             @ string offset=1891
+	.asciz	"APPW_SCROLLER_DEF"             @ string offset=1903
 .Linfo_string176:
-	.asciz	"pNumScrollers"                 @ string offset=1909
+	.asciz	"pNumScrollers"                 @ string offset=1921
 .Linfo_string177:
-	.asciz	"pppDrawingList"                @ string offset=1923
+	.asciz	"pppDrawingList"                @ string offset=1935
 .Linfo_string178:
-	.asciz	"pNumDrawings"                  @ string offset=1938
+	.asciz	"pNumDrawings"                  @ string offset=1950
 .Linfo_string179:
-	.asciz	"pCreateFlags"                  @ string offset=1951
+	.asciz	"pCreateFlags"                  @ string offset=1963
 	.ident	"Component: Arm Compiler for Embedded 6.22 Tool: armclang [5ee92100]"
 	.section	".note.GNU-stack","",%progbits
 	.eabi_attribute	30, 1	@ Tag_ABI_optimization_goals

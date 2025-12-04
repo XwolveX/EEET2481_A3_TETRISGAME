@@ -22,14 +22,14 @@
 	.eabi_attribute	26, 1	@ Tag_ABI_enum_size
 	.eabi_attribute	14, 0	@ Tag_ABI_PCS_R9_use
 	.file	"APPW_Language_0.c"
-	.file	1 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "Application/Resource/Text/APPW_Language_0.c"
+	.file	1 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "Application/Resource/Text/APPW_Language_0.c"
 	.hidden	acAPPW_Language_0               @ @acAPPW_Language_0
 	.type	acAPPW_Language_0,%object
 	.section	.rodata.acAPPW_Language_0,"a",%progbits
 	.globl	acAPPW_Language_0
 acAPPW_Language_0:
-	.asciz	"TETRIS GAME\nPress SW1 to start\nNCODED\n-\nGAME OVER\nPRESS SW1 to continue\nHIGH SCORE\nTIME\n00:00\n-\n\000\000\000"
-	.size	acAPPW_Language_0, 100
+	.asciz	"TETRIS GAME\nPress SW1 to start\nNCODED\n-\nGAME OVER\nPRESS SW1 to continue\nHIGH SCORE\nTIME\n00:00\n-\nLEVEL\nSCORE\nNEXT\nLINE\n\000\000\000"
+	.size	acAPPW_Language_0, 122
 
 	.section	.debug_abbrev,"",%progbits
 	.byte	1                               @ Abbreviation Code
@@ -136,7 +136,7 @@ acAPPW_Language_0:
 	.long	59                              @ DW_AT_type
 	.byte	4                               @ Abbrev [4] 0x34:0x6 DW_TAG_subrange_type
 	.long	71                              @ DW_AT_type
-	.byte	100                             @ DW_AT_count
+	.byte	122                             @ DW_AT_count
 	.byte	0                               @ End Of Children Mark
 	.byte	5                               @ Abbrev [5] 0x3b:0x5 DW_TAG_const_type
 	.long	64                              @ DW_AT_type
@@ -156,13 +156,13 @@ acAPPW_Language_0:
 .Linfo_string1:
 	.asciz	"Application/Resource/Text\\APPW_Language_0.c" @ string offset=68
 .Linfo_string2:
-	.asciz	"C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" @ string offset=112
+	.asciz	"C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" @ string offset=112
 .Linfo_string3:
-	.asciz	"acAPPW_Language_0"             @ string offset=165
+	.asciz	"acAPPW_Language_0"             @ string offset=177
 .Linfo_string4:
-	.asciz	"unsigned char"                 @ string offset=183
+	.asciz	"unsigned char"                 @ string offset=195
 .Linfo_string5:
-	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=197
+	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=209
 	.ident	"Component: Arm Compiler for Embedded 6.22 Tool: armclang [5ee92100]"
 	.section	".note.GNU-stack","",%progbits
 	.ARM_attribute	16, 1	@ Tag_AV_eba

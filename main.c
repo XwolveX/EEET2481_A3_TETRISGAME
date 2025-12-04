@@ -291,7 +291,7 @@ void sortHighScores() {
 void addHighScore(const char* name, int score, int minutes, int seconds, int level) {
     HighScoreEntry newEntry;  // Temporary variable to hold the new entry
 
-    // Initialize the name field with zeros to ensure itï¿½s null-terminated
+    // Initialize the name field with zeros to ensure it’s null-terminated
     memset(newEntry.name, 0, NAME_LENGTH);
 
     // Copy up to 5 characters from the input name to newEntry.name
@@ -534,8 +534,8 @@ unsigned char gameGrid[GRID_HEIGHT][GRID_WIDTH];
 // Structure to define a Tetromino block (Tetris piece)
 typedef struct {
     char shape[4][4][4];    // 3D array: [rotation][row][col]
-                            // Defines the 4x4 grid for each of the 4 rotation states (0ï¿½3)
-    unsigned char color;    // Block color identifier (1ï¿½7 for different colors)
+                            // Defines the 4x4 grid for each of the 4 rotation states (0–3)
+    unsigned char color;    // Block color identifier (1–7 for different colors)
 } Tetromino;
 
 // Array of 7 Tetromino pieces (I, O, T, S, Z, J, L)
@@ -544,8 +544,8 @@ Tetromino tetrominos[7];
 
 // Structure representing a block currently in play (falling)
 typedef struct {
-    int type;       // Tetromino type index (0ï¿½6)
-    int rotation;   // Current rotation state (0ï¿½3)
+    int type;       // Tetromino type index (0–6)
+    int rotation;   // Current rotation state (0–3)
     int x, y;       // Position of the top-left corner in the grid
 } CurrentBlock;
 
@@ -556,7 +556,7 @@ CurrentBlock currentBlock;
 CurrentBlock nextBlock;
 
 // Game progress and statistics
-int score = 0;         // Playerï¿½s current score
+int score = 0;         // Player’s current score
 int highScore = 0;     // Highest score achieved (could be saved/loaded)
 int level = 1;         // Current game level (affects speed)
 int linesCleared = 0;  // Total number of lines cleared in the current session
@@ -706,7 +706,7 @@ void initTetrominos() {
 }
 
 
-   // ï¿½?nh nghia mï¿½u cho cï¿½c tetromino
+   // Ð?nh nghia màu cho các tetromino
 // Color mapping for each block type (index corresponds to Tetromino color value)
 GUI_COLOR blockColors[8] = {
     GUI_BLACK,      // 0: Empty cell
@@ -749,10 +749,10 @@ int isValidPosition(CurrentBlock block) {
 // Character buffer to hold player's name (5 characters + null terminator)
 char playerName[6] = "AAAAA";  // Initial default name
 
-// Array storing the current letter index (0ï¿½25) for each of the 5 characters
+// Array storing the current letter index (0–25) for each of the 5 characters
 int currentLetter[5] = {0, 0, 0, 0, 0};  // 0 corresponds to 'A'
 
-// Index of the currently selected character (0ï¿½4)
+// Index of the currently selected character (0–4)
 int selectedChar = 0;
 
 // Available characters for name selection

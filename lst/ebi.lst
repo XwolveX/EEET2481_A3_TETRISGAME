@@ -23,7 +23,7 @@
 	.eabi_attribute	14, 0	@ Tag_ABI_PCS_R9_use
 	.file	"ebi.c"
 	.file	1 "C:\\Users\\dinhl" "AppData\\Local\\Keil_v5\\ARM\\ARMCLANG\\bin\\..\\include\\stdint.h"
-	.file	2 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "./Library/Device/Nuvoton/M480/Include\\ebi_reg.h"
+	.file	2 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "./Library/Device/Nuvoton/M480/Include\\ebi_reg.h"
 	.section	.text.EBI_Open,"ax",%progbits
 	.hidden	EBI_Open                        @ -- Begin function EBI_Open
 	.globl	EBI_Open
@@ -33,7 +33,7 @@
 	.thumb_func
 EBI_Open:
 .Lfunc_begin0:
-	.file	3 "C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" "Library/StdDriver/src/ebi.c"
+	.file	3 "C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" "Library/StdDriver/src/ebi.c"
 	.loc	3 57 0                          @ Library/StdDriver/src/ebi.c:57:0
 	.fnstart
 	.cfi_sections .debug_frame
@@ -1181,61 +1181,61 @@ EBI_SetBusTiming:
 .Linfo_string1:
 	.asciz	"Library/StdDriver/src\\ebi.c"  @ string offset=68
 .Linfo_string2:
-	.asciz	"C:\\Users\\dinhl\\Documents\\Tesy\\EEET2481_A3_TETRISGAME" @ string offset=96
+	.asciz	"C:\\Users\\dinhl\\Music\\ASSIGNMENT3_GROUP_SE\\ASSIGNMENT3_Excercise2" @ string offset=96
 .Linfo_string3:
-	.asciz	"unsigned int"                  @ string offset=149
+	.asciz	"unsigned int"                  @ string offset=161
 .Linfo_string4:
-	.asciz	"uint32_t"                      @ string offset=162
+	.asciz	"uint32_t"                      @ string offset=174
 .Linfo_string5:
-	.asciz	"CTL0"                          @ string offset=171
+	.asciz	"CTL0"                          @ string offset=183
 .Linfo_string6:
-	.asciz	"TCTL0"                         @ string offset=176
+	.asciz	"TCTL0"                         @ string offset=188
 .Linfo_string7:
-	.asciz	"RESERVE0"                      @ string offset=182
+	.asciz	"RESERVE0"                      @ string offset=194
 .Linfo_string8:
-	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=191
+	.asciz	"__ARRAY_SIZE_TYPE__"           @ string offset=203
 .Linfo_string9:
-	.asciz	"CTL1"                          @ string offset=211
+	.asciz	"CTL1"                          @ string offset=223
 .Linfo_string10:
-	.asciz	"TCTL1"                         @ string offset=216
+	.asciz	"TCTL1"                         @ string offset=228
 .Linfo_string11:
-	.asciz	"RESERVE1"                      @ string offset=222
+	.asciz	"RESERVE1"                      @ string offset=234
 .Linfo_string12:
-	.asciz	"CTL2"                          @ string offset=231
+	.asciz	"CTL2"                          @ string offset=243
 .Linfo_string13:
-	.asciz	"TCTL2"                         @ string offset=236
+	.asciz	"TCTL2"                         @ string offset=248
 .Linfo_string14:
-	.asciz	"EBI_T"                         @ string offset=242
+	.asciz	"EBI_T"                         @ string offset=254
 .Linfo_string15:
-	.asciz	"EBI_Open"                      @ string offset=248
+	.asciz	"EBI_Open"                      @ string offset=260
 .Linfo_string16:
-	.asciz	"EBI_Close"                     @ string offset=257
+	.asciz	"EBI_Close"                     @ string offset=269
 .Linfo_string17:
-	.asciz	"EBI_SetBusTiming"              @ string offset=267
+	.asciz	"EBI_SetBusTiming"              @ string offset=279
 .Linfo_string18:
-	.asciz	"u32Bank"                       @ string offset=284
+	.asciz	"u32Bank"                       @ string offset=296
 .Linfo_string19:
-	.asciz	"u32DataWidth"                  @ string offset=292
+	.asciz	"u32DataWidth"                  @ string offset=304
 .Linfo_string20:
-	.asciz	"u32TimingClass"                @ string offset=305
+	.asciz	"u32TimingClass"                @ string offset=317
 .Linfo_string21:
-	.asciz	"u32BusMode"                    @ string offset=320
+	.asciz	"u32BusMode"                    @ string offset=332
 .Linfo_string22:
-	.asciz	"u32CSActiveLevel"              @ string offset=331
+	.asciz	"u32CSActiveLevel"              @ string offset=343
 .Linfo_string23:
-	.asciz	"pu32EBICTL"                    @ string offset=348
+	.asciz	"pu32EBICTL"                    @ string offset=360
 .Linfo_string24:
-	.asciz	"u32Index0"                     @ string offset=359
+	.asciz	"u32Index0"                     @ string offset=371
 .Linfo_string25:
-	.asciz	"u32Index1"                     @ string offset=369
+	.asciz	"u32Index1"                     @ string offset=381
 .Linfo_string26:
-	.asciz	"pu32EBITCTL"                   @ string offset=379
+	.asciz	"pu32EBITCTL"                   @ string offset=391
 .Linfo_string27:
-	.asciz	"u32Index"                      @ string offset=391
+	.asciz	"u32Index"                      @ string offset=403
 .Linfo_string28:
-	.asciz	"u32TimingConfig"               @ string offset=400
+	.asciz	"u32TimingConfig"               @ string offset=412
 .Linfo_string29:
-	.asciz	"u32MclkDiv"                    @ string offset=416
+	.asciz	"u32MclkDiv"                    @ string offset=428
 	.ident	"Component: Arm Compiler for Embedded 6.22 Tool: armclang [5ee92100]"
 	.section	".note.GNU-stack","",%progbits
 	.eabi_attribute	30, 1	@ Tag_ABI_optimization_goals
